@@ -1,0 +1,2923 @@
+-- protected by rbx.lol
+local _z54_0433a39 = "RBXE\001\000\001\002\000\184.\209\216\153\200\255q\149\175\007w\006\029\133x'$&Q\203\018\000\000\240\129\022&<\180\030\230N\130\201,|u\163\210\181,\185\249*\149\251\137\243\149KE\239}\137V\229\016\012\228`\144\238L\185_\0226\255\028L\173\007w\158\188\143\147\185\145o\223\238)\159H\157\009\216\180\017e\017\217p\205\233\127jy\154\193;\186\209\141\248\175R\216\1372\149L\160aN)\245\175\169\247\145\009)\029D7\189?\021z!\155Ot\251\\\242C5\220\135\158/\\\014\015\014\0145{\234\207\157\230\196\152\204\231\239(G\193\169\198\208e\022\151\246\200\228\1564\011?\2227\188\191h\029\198\0235\215\147\184E)dlY\011\176\233\009\199^\128\017\136\228E;\018d\018\147\131j\226\003\223\194}\173\207\172\251 \012\184\216\203\184\241<\217y\001\192\1725?FX*\1332\209\005\236\173>\156q\220jQ-\144\228\249\159\232i&$\173\211I\235\019?\179d\1544[\156\031\014\001)^\225\192\128\010\255\0086\180\005\189\146{\136\225\014\212\241C\255\240\206\199\247.y\004\142q]lfT\012'5\253\019\129\172\131\149c\234%h\229+-\\Ss}\016\248w\170\149N\238j\162\164\244T\239\026\018S*?t&E\235x\192/\133!\157\149c\127\145\169\228\147\155\219\206s\219])T\151\191\168c\213@\005\006b\233\017s\144\220I\166\153\195\204#\186\204\009\015\211:\200\162,}\0281\127\151l\203\245\189f\209\171.=\242\128\161k\253g\011\136\144]\239\238!\255\143\182jf\026\221t\209N\019o\188!\140]N\022\156\222f\243\026a\004\000\140\167Toj}\191r\250\210EZ\213\140\211<\186\129\148\238\210h\"\247\231\015\004\031\238\145\142}\168Z\167\248\151\027\004\140\246\0317\214`\169v\"$/\248+d\249\138\248+#\212C\199g\189\202\231\024k\235\138\193\028\245\198E\155\000\224]Y\245(\224\181\248s\129v:4\026\243\220\131\153P\155\172\1297\168\180\159\229y\162!\230C\0113\187\023*#>\169\143\000\127\003\210\133\231q\173{\219-\230\200\000\178\161\022\153\231\254\254\204!/qm\224\132\212\218\175\237o].\030\018/f\186\227\137\214\148\172\180FN1\210\228,}p\186\000\031]\221\250s\190\171\191\223\220\250\007\135\155s\220\209\024;\196\228'\004\184D\205-\217y\160OV\004\208%vGX&\127^#\233\1475Z}\003\136\204uo\133A\251\249V\031fk\178\012\200\023\143\187\188\165X\176wY\223B%\1574.\012X\026`\172\251\162\025\148\231\005\246+\166\231\013\003\222}\169\144,(8\169\135`s\165\202\009\219:\251\247\194\010sG\003\162\129\170\030z\163L%\161\202\225\024\225a\031\015\236\245\250\254v\029P\001\181mM=\226\202\214&\248~n@\149K\2486J\244x\154;\012\028L]\001\178\0246\185\153\246\202,\013\206\166\136[\025\153\1282\190B5\244\174\150T\190\157\203\219|\182\250yy\192(@3w*\253]\240\192\028,\213\253\023\209JS\149^+'3),DkM\172\027\211\009\215\207z\140\193\230\000\214\163\235\020\161\135@\175p\179\223V\209\173\161,\196\162k\\F\253\1545Z\028}{B\007\158P\230\220\227*ns\016w`\254\0218\166\246*\166\187\001\254\212\004\226\022\009\018\004\217\190\217\241V\202\149a5\214\216yJ\191\029\247\225\191,\144\163\134a\1282\003J\020\233\209C\029\136-\224\168\226\133\004\237\012\244\148\168\003\174.\141=\222\251o\242\247\253$Q\198k?\023\171\217\014m*k\134\208\242\027>\234&i\142\234\247\197a\179fZ\157\015\186\131\209\161\168\134\006\186\142b_H\137\010\188V\148\162\191\2390\167jN\2180\021\233\208f\178\210\200l\236lw^a\229\1486i\014v)\224G\189\012O\251n\159@\176\0164\184\128\130'\213th\128z\142\245\135h:6\211\000\240z\1830\205\156\141\168\164j\251\206\145\160\188\140@>\214\011C\216\212Pp\246\228\234FD\245\245\249\014\014\139\002I\247\127[\218\242\185\187.\233\002r\199b\218|\149\250\161\238\219\175\254\\~}M\255\"\187\198&\180\187m\1672$;\248\144\025($\207d\154.\016w\224\182\242\154\153\009\226\215\147\139\252R+g\166K\006n6\220/\210\014\236j\163\215\245A\000\241\202\145\134]R\155\188F\244\130\237\195\144\205c\159*(\249\136\238Q\239\141e9\025\197q}P\150GO\171pD4\"b @\228\150\025\2322\149\001\155,\228<\019\152k\151\170#\189I\182QI1g\130yz\184\227\1936Z\255\148\142\023\230\251\246\248B-\179\151\030P\151\203l\180\193\194\145#\152B\174O\019\136\139\167l\216\245\224S\152F~</\195T\227\202\187\142\0217\026\160jT%\141\020\176\136 \233\000\247;\208\246\249LC}\166 \148: \152\138g\243x\249L\135\193\135j<SAc\213\009N\217\234\238\222\012\212J\2182\221^I\136\157I\203\237\141\248E\212\252?[\222rQ\183\148(%\248fq'\212\025\214\216\169\019Y\167\216\174\024 Yl\174.\217\129\"dC\150A&\178-)X\183;\183K\185\242\208\013\162\011\235\251\205\248\194\023U\223d\229\016\138\149\231\137\157\127\138\158,\222\218%\138\030\222\030\028\149\003\247\229\231\140I\178\247\182\008\149\005\2270\173\165\168u\004\127\191\157\202\208l\192+7@\158{;\249>\013\024\013E\254\208)TH\1578\143\139\155}\007\166\003\221\192\172{\132L\200\204\151a\129\190E\243ut|\215\129\211{m\025\176\157x\170\208Y\1351\145\229f\017g\131I\178\012\156`\222\162\007\1981\229@{\215\135\150\132\219\192\214\136\250h\004&/?\171\206\202I\24150\177\184\151\182x\244\249\177\146\230\020\015I\236\016\184{\164\011>i\135\205\240\177\005\2133i)+\1551\180\189<W\241\148\155\248\224\162\135\029\127'\127\2021\157j\163\165o\011p\025s\227\018\164\017\200\179\254Rn\127c\235[)\232\128v\163\131\228\223\159\007\154fz\025x\135\024\253\"\012\"\131WT\015-78J\220\020\153\146A\028i\2012,o\165\015R2\186\216J}^\236M<M\133\250\009\184\253z\148\189\222\018\206U\238\152\027\010@c\196\017i\161\155\223^\241\023^\236g\011\225\001g.\240\141\253R4\009\012/\227(P\024\003\217e\155\151\130\145\203$R|\029\016\238\147\163\160\129\178\002#\147S\181M-\0123\015_i\013\010\249-\030(wE\186oA\147!\224\194\167\009\205I\018\244\173\162\013\188\205\205(@\020\221\029Q\246$\180\137\149\210J\138\212q\151\196t=1\139g\228\232\224\024\017x\004\194OuM\140\175\167\144\182?\176I\227\190\162\175:\203\151j\180\195Mb6\172\253\201\165m\236\128v\144wsL\002\153\2313\176\172\193\175\018'\226\207\243\004\200j\196\016\160\203\129\153\1740\0247\003-\166a\158(D\017M9CDm\233\227D\201\022\150r\"\025\168\187$\254_\199[\154\005\031-a\155\242\243\199\249\180]P\249\193\150K%V\011g\170\019\213H\1635?\172\162\180^\218\237Ge_\149\140\1557\218e\230T\255\143p\207A\131\007P\144m6\157f\013\162 \230\195U\026\179\000\187\137A\174~\150\197\131s\217\239\204\130}\022\199\019\221\161\132\242\146\253\150Jl\212T\224\208\144\164\202w\213\226\184\178\159Y\173\176,@\230\1939\246\"3b \172\168xW5-\253!\181\029c\203[\1965\016v\234\146\025\178%\002zd\204=\014\224\027\235\182\212!r5U\162@\197*\187\171\234\1963Qe\128\148\001Sy\244A@\222?)\130\215\135\255-U\001\023\248?H0\011x\196_\0144J,$\027\225VqA\222\007\009\236\132\173\250\157$\134\0106\144\"\029\209\0271H}=\030\192D@\164\003s\004z\219\127\170\164\248\004<A\209TO\253\142\015\168\164\222\001\195\164~X\247\002\229\026\167A\157\249f\208<(.uP\183\160\128\223\1883\027T\227\199\162\181X\005\139[\133q[w\144[\239\1886\250\169\181\230\004\226\204\140\235\129\172\011\026D\145\2233\241t\183x\209\163{\246{\201\127\025\236@\0062\236\001\234\195\200\200#y\211\133g\174.0\167X\183\133\205\225\1719\1966Y\012\187i\031Mc:\235\189\208\188\148L8\188H<\220X\023i\187\23612\158\017\246,G\240@\165!\\\171-/\131-\029\159\166\147\238\185n:\013pN\144\222\209S1D\136\211\157\029\180F\175{\148\205\251\210A\215\183;\129\010-\011\027\029\137\131S}\205\179X\009\169R\193\250@\223\203\160:\185\201\244\028W\013\008\149\128g\194xf\004\132G\239~\144\014\139V\163\236A\183C1\224\191V\129<\172.r\154\"\021\145<\238q\131\018T\212h\171\171\221\190\214\161D(\146y\220A\138\176\016\183\209\1739\137\132\161\2343\138r\238-R\135\028\013|\006Y/\026`\132\133_\201\153\205\005*\014S\146+\1840s\028\254\179a\137\233\155\138\180\235\224\199\145\1380\1825\139\249\233\131%\136\246l\245Z\020\013\249\214Q7\221e\195\210\151K\001{\139w\198a\149\251\232\223\210z\136\230:&\133\207Zt\2053_\013\173{\183:EH Ye\024\2146\167\2416=|z\021\134\238\162\150\153\250{\007\000\206}\231*\147o7\1641b\014;\243\005\147\165#C\193+\191i\238\255\156,\143O\177\127M=q\127\014\139\232\150\191YXB\254M\141`h\207\222\206rq\207(zJs\007\183\016\2455\167)v\178\251\1893\022\137\243\160\145\030\143$\158`\233\225H\216\177P\130VR\002\017\235\203X\025o\216\227A\193\231\187\134X\200v\130\139mk\196\031g\140F3\134\154U\172\197(x\210\183k\009\164\243.\186|c\187\025\128C|?\254}\151\228\142\030\147\160\131\137\213Px'\016\188\128E\173\151\211\128\224V4\022\250F\187\222\234\145\127\221\201\184s\009\012\165\009JN\243\205\166H\170(}\251\168MJ\224\017?\163\027\139&R\231\169\171\135\242b\173W\229aL\228\157\220\214\145\222\244\21158\159\245\163\166\173\191\026\131f\154\220\186`\233F\012\024,\1898\011\164\255#\234\249\169\1710>M:\203G\182\209?\189\133#_8\177\189\0316\224\153J9@\177$\128(\175B\151\195B\184`\253\214\221\229\152\248\164\157\159\220\198r\181\197\184e|p\157I!\195\223\243J\2385\245\004N5\195\188\155\014\178\157\233\195 \221\151\227W\166\255\229\148\223\169I}\186\177t\250\168\238Y\250\022\171K\188&\183p\135\026d\206\233e3oU\1992\163\141P\130\237\2038\160\143<\015\1273\230\187IJ\"\135)}g\"@|\143\152l\192\249a\206\208r\019<\252\130V\215\220\165\237a\235\179\0112\023\218\234\030?S\248\224\001R\230\018\249\130\186\027\175\003\129\194\021@\152*}\221P\249\182\228\212L\239u\024\233%\248\250I\154~\246P/\221\195\210\138*Qm1\191\193:\215\016\1726f\024r`\215\175\143F\027\012p\016Re\220\183\197\143;u\159f\013\237\220uU\208\127\210\217t*,\227\185\241\170-\190\234\023Crd\229\245\218\210\222u\242\129B\009\023\142\129\021\022\146\170\208`\170\139\218\017]\008\142:\164`\190\171\201s\026b\193\180s\224u\172\133\2272\166M\173\222eP\251;h\001\197\251\002\026cqb\030i\010{\008zP\198,\171\203[\0255\144\171\214&\022\208\185\228p\242\238\186%\139\223 \239\026\196\1360l\139s\157\167\1568\224@j\255R\251\152@\1652fRm\136h\241\241\171\248\235\028\019\014\139\193Z\218w\213\221\215\229\158\"<\019\235\174\159\215\221W\018\169\186\220\134i\170\182\230\237\231%\160\1638rr\176\024\198Q\201\150_\024\030S\251f=\189pvS\144\252\206(\207v\168\199<\155\209NT\031\245\174)5\216\156p\195\027\209\162\150\242\214\234\1312g\149\176\1953\194\006\184\253\021\000\214X\159G\227\240\133a1 \144N\210\223\155\182%\2365M\014\200\214??\197\170\235\146Y\2141\144\226a\209\001\204TsL\014\198A\008T~q\188\012l)\222y\000\200\203X\186E^\130\148\149\137\167\016K\192a\178\249\027H\193s\001\031\190[\184/\131\132\2421\161\231>\243\228)\193\031.P2*\189V\176\140[lM\230\205Y\006\227\180D\127%\136\1885\243}\012\201\009\227\1685h\241x?KL\222\2400L\244a\251\029N=S4.\233YE\167\020\145@\218\172\013i\153\0200\017I?SJ\168\158x\010\147\195\003>\155\149j\031\186Yl\198\232\177\220\191u1\226m\167\001{]\181\156I\0116H\247)n\213\1466\030m\192\176\024\0262\197;x2\197bz\211d[p\132~\148\009\010\171\227D\130\018[^P\159b\158\176\223,\164\136|e\184\171\190\031T\255\213\230\227^\1559\149)E\249\247\191F\146\173\168\237A\149;\233sI*\008\247u\255\185\011\214\146\132\161)\028\197Zv\196\206\209\212\170\153\151\136\254\020ngJ\201\179\153\017\251X\246\1434\210\250WWC\253\030\148m\026\239\027\230LM{vL\185\013=\227\015\204\194\208\132AL\206`WZ)\229y\136N:\168v\168\138k\182ML\182\243\170pe\199eD\184\236\177~\254O\155\169 D\\6Q\006b\130m\127\031\132\167\140\016\156\000\199!\002\193~\138\229c\175\132\221q\132N\\+\012\000\201p\169\152%L\252S4&\170\235\241\158\028\245\219\015<\154\211\030\152\007\002\148\162-\018\011\029\253\1367\233\029\162\1334\161\178u\025\017oOY\001,\173\240\242\174\021\200\250#u-J\011[\218\022\192i\213\176j\155,\231\231\180\172\235\150\212\211y\000\209\244{\130\232\001\170\026|\147\213\192Q\232\"W3#\028\167\171\131\223I\249>\225_i\208\183\183\130J,\172\252\002Ou\214\248\240D\207\011\163\011\193\129z\198h\208i\238\218\152<\179\170;\195\217q?&\204\236\030.\182M\144\149\228\208x\199g\012\240\146z\137\181\232X\238\250\019\169\170_c\179\241\211\162M\186M\203\0312\145\007\238\030\222\189G\019\014,7\134X\006os\203\214\002\135\243\205[|\179?X.\"\024!;\207\162\1748\252C\206\247Cj7\028ji\015:\007\019\001.\128\216n\172\154\155\165'\178\029\175\229\019s\203\192\031\215\162\235:J[F\199\203\00077]q\226\129\167aK\229\214\203[1p\189\179\148\011-\249>\255yqR]2\014T\004j\220\224SN\143\221. \253\020&\020\144\185\156\182\243+\247D\213\0094_\2000C=\161\212\167\030\213\135\186\015\225\018Y\155\000\169\154\015t\005e\217\177\133\014\231\024_\208\136\243\197\180\2388r\010\140s\004\022U\138S9\141\025{\156UQ\131\209\187\006YFG\201\233\134\222\017\156\160R\236\030\244_!k\213\030\226\168\147\026[f\153\254\015\222\232 w\0070q\220\130\169,\153\243G2!\188?\243\150\165E`\011\016Y\007\148\245\216\229\169]m\196\184\206\220\128\232\020%\227,,\198=\151Z\153\029\176\197E5\190\198I|\250\007\196\011\154\002\025t\001\001\013\173\239\219aa\221v\240`Bs\026\220X\244u*Q\189\195WW\026A\197$:\205R\138\011\206\170F\006\201>\131hj>\175)q\228s\031pT=\211\168-G\225\"\006\244\164)\134\252z\009N\230\149T\159<~\132\250\164\228\159\197\153\172\173\142*\018\011\191\227;\245#X\1503\180V,\1836\152\167\216\186\229v1ro\196\011\007\254\178'Qf\173\199\150\141\134\167S\131\020\131\158FG\250\251`e\004$\254\004\029\167q(\230/\146/\182\182\238\010\129\160\020\177\012\231\029+\213\138vp\179~i\025\230?\005\161\180N\185q-]fi\229\001\003B\135i\2045V\213\216\183J\229\227\216\229\220\191y\196p\251\231\141C\127\158\006\181s'\232V\141\219<\030q\169\175o\016m\143\205\141?4\227\187\180\213\004\139\148V\136\209\156-`%j\249\211\1275\139+\172\031q\235\024\149\169,/\1807?\227\129\181\178(\133Da\227A\236\190\157U\200\031vDm\222\157E\139&{\214\237\141\230\212\003D\207\010\004\170`\018+\145W\213\221\1495\208=\249u\254E\143I\231\238$\020\186\236\026\"|_q\152fvbq:&\011k}\002F\165\240j\023\180~`->\1771\217\163\245P$\198b\143\197\237\155\133\030\021k\170\007\002\231\196\252#\224\130\169\219~&\247\029C\194\239\012;\158\169N\209\239\232\"L\142J\177NL\174p\009*\202\233\212\238\244p\017\249)\221\251\162\222\027\2141\014\223I\217\129\128\174G\245,\201\180J\183\215\234({$\253+\221\155.\211Y\184(3\210\197\235\026\234\148c\205)\008\226\142\024H\245\181\201f\153\008,>\188\229\136\175z\188\009\192\236\025\214\159\014v\234\018\242\130p\244\151\212Z\204\208\159\250S\228*\222\130,\223\195\011\239\128iB\161\159\182\008nk\205\145\243\131@\253r\131@\227\222\026\221\168u\\.\230\200`F:\192\009\031$Zrd\184\002\022\031\195`\193$=\192\192\230\191\205\247a\006ul\214K\244Hs\212j]i\246/\165\153\020\149\000E\218z\155|m\153w\132NH(^Z8\025m;\141\248\134Q\180bp\226\138\248$t.\184\220\029\228H9Q%\012\218\001\158\200\209\197\216^!\200\178\197\210)\1573\002,\025\002\203(!\200l3\244\228\"\148\132"
+local _z23_9dd5348 = {112,89,47,238,156,211,55,182,126,117,219,123,159,113,73,100,170,29,177,228,67,247,144,255,66,121,148,112,140,122,255,182}
+local _z14_1d3c953, _z20_8049d30, _z34_6956aa2, _z37_a4edb51, _z9_92de782, _z17_5403899, _z49_606af11, _z48_1ef6705, _z3_8bf1b4d, _z0_5b0cfd3, _z57_8d67057, _z46_2fcdc1b, _z36_e691994, _z13_5de5492, _z28_455ad08, _z2_d028ac9, MAX_PROTOS, MAX_UPVALS, MAX_CONSTS, MAX_CODE, MAX_BYTES, MAX_POOL, _z1_0556388, _z47_c6db0cc, _z26_5bf091a, _z32_df7cf0f, _z21_71c173c, _z5_bad345c, _z22_b3e4f13, _z24_c786def, _z40_6778bdf, __SC, _z29_a62074c, _z33_972fb1e, _z6_07b86da, _z42_c7cf7b3, _z35_00aa235, _z50_f64bb44, _z4_79c86f9
+local _z27_84854cf = 167
+while true do
+if _z27_84854cf == 162 then
+_z4_79c86f9[108] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 20 + ((_z17_5403899~=724323310) and 1205 or 0)
+elseif _z27_84854cf == 93 then
+_z42_c7cf7b3[2] = function(pi, U, ...)
+local pr = _z33_972fb1e(pi)
+local K, C = pr.K, pr.C
+local B0, B1, B2 = {}, {}, {}
+local top = 0
+local np = pr.np
+for i = 0, np - 1 do B0[i] = select(i + 1, ...) end
+local VA, VAn = {}, 0
+if pr.va then
+VAn = select('#', ...) - np
+if VAn < 0 then VAn = 0 end
+for i = 1, VAn do VA[i] = select(np + i, ...) end
+end
+local pc = 0
+local _z56_4e200be, _z10_e3024af
+local _z55_318a0e9 = {}
+local _z11_bb09f73 = _z29_a62074c[pi]
+local _z30_085027e = _z11_bb09f73 % 65536
+local _z31_edd88f8 = {}
+_z31_edd88f8[_z48_1ef6705(865053, _z11_bb09f73)] = function(op, a, b, c)
+if op < 1 then
+if op == 0 then
+local __h3 = B0[b] B0[a] = __h3
+end
+else
+if op < 2 then
+if op == 1 then
+_z6_07b86da[39](B2[a], B0[b], B1[c])
+end
+else
+if op < 3 then
+if op == 2 then
+_z6_07b86da[39](B1[a], B0[b], B1[c])
+end
+else
+if op == 3 then
+B2[a] = _z6_07b86da[10](B0[b], B1[c])
+end
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(878152, _z11_bb09f73)] = function(op, a, b, c)
+if op < 6 then
+if op < 5 then
+if op == 4 then
+local ww = K[b]
+B2[a] = _z34_6956aa2[ww]
+local y = {}
+B2[c] = y
+end
+else
+if op == 5 then
+local __h3 = {} B2[a] = __h3
+end
+end
+else
+if op < 7 then
+if op == 6 then
+local __h3 = B1[b] B0[a] = __h3
+end
+else
+if op == 7 then
+local __h3 = B2[b] B0[a] = __h3
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(891251, _z11_bb09f73)] = function(op, a, b, c)
+if op < 10 then
+if op < 9 then
+if op == 8 then
+local __h3 = K[b] B1[a] = __h3
+end
+else
+if op == 9 then
+local __h3 = B0[b] B2[a] = __h3
+end
+end
+else
+if op == 10 then
+local __h3 = _z34_6956aa2[K[b]] B0[a] = __h3
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(904350, _z11_bb09f73)] = function(op, a, b, c)
+if op < 12 then
+if op == 11 then
+local __h3 = U[b][1] B1[a] = __h3
+end
+else
+if op < 13 then
+if op == 12 then
+local j1 = K[a]
+local a0 = B2[c]
+B2[b] = a0[j1]
+end
+else
+if op == 13 then
+local __h3 = B0[b] B1[a] = __h3
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(917449, _z11_bb09f73)] = function(op, a, b, c)
+if op < 17 then
+if op < 15 then
+if op == 14 then
+local __h3 = K[b] B0[a] = __h3
+end
+else
+if op == 15 then
+local pa = a + (1)
+local n = b
+if n < 0 then n = top - a end
+local rets = {}
+for i = 0, n - 1 do rets[i + 1] = B1[pa + i] end
+_z56_4e200be = rets _z10_e3024af = n return 2
+end
+end
+else
+if op == 17 then
+local pa = a + (2)
+local n = b
+if n < 0 then n = top - a end
+local rets = {}
+for i = 0, n - 1 do rets[i + 1] = B2[pa + i] end
+_z56_4e200be = rets _z10_e3024af = n return 2
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(930548, _z11_bb09f73)] = function(op, a, b, c)
+if op < 20 then
+if op == 18 then
+local __h3 = B2[b] B2[a] = __h3
+end
+else
+if op < 21 then
+if op == 20 then
+local j1 = K[a]
+local a0 = B2[c]
+B1[b] = a0[j1]
+end
+else
+if op == 21 then
+local __h3 = B2[b] B1[a] = __h3
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(2541725, _z11_bb09f73)] = function(op, a, b, c)
+_z55_318a0e9[a] = (K[b] or _z55_318a0e9[c] or 0)
+local _z12_66f8154 = 0
+while _z12_66f8154 < 3 do
+_z12_66f8154 = _z12_66f8154 + 1
+_z55_318a0e9[a] = (_z55_318a0e9[a] or 0) + _z12_66f8154
+if op < c then continue end
+_z55_318a0e9[b] = _z55_318a0e9[a]
+break
+end
+_z55_318a0e9[b] = (_z55_318a0e9[a] or 0) + (top or 0)
+return _z55_318a0e9[b]
+end
+_z31_edd88f8[_z48_1ef6705(2554824, _z11_bb09f73)] = function(op, a, b, c)
+_z55_318a0e9[a] = (K[b] or _z55_318a0e9[c] or 0)
+local _z12_66f8154 = 0
+while _z12_66f8154 < 3 do
+_z12_66f8154 = _z12_66f8154 + 1
+_z55_318a0e9[a] = (_z55_318a0e9[a] or 0) + _z12_66f8154
+if op < c then continue end
+_z55_318a0e9[b] = _z55_318a0e9[a]
+break
+end
+if op < b then return _z31_edd88f8[_z48_1ef6705(2541725, _z11_bb09f73)](b, op, c, a) end
+_z55_318a0e9[b] = (_z55_318a0e9[a] or 0) + (top or 0)
+return _z55_318a0e9[b]
+end
+local _z18_c5c9d2c = _z0_5b0cfd3(_z47_c6db0cc, 3) ~= 88
+local _z4_bc49678 = _z0_5b0cfd3(_z47_c6db0cc, 4) ~= 79
+repeat
+local ins = C[pc]
+local op = _z48_1ef6705(ins[1], _z11_bb09f73)
+local a, b, c = ins[2] - _z30_085027e, ins[4] - _z30_085027e, ins[3] - _z30_085027e
+if _z18_c5c9d2c then _z31_edd88f8[_z48_1ef6705(2541725, _z11_bb09f73)](op, a, b, c) end
+if _z4_bc49678 then _z31_edd88f8[_z48_1ef6705(2554824, _z11_bb09f73)](op, a, b, c) end
+if op == 16 then
+local pa = a + (2)
+local f = B2[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B2[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B2[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B2[pa + i] = res[i + 1] end
+end
+elseif op == 19 then
+local pa = a + (-1)
+local f = B2[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B2[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B2[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B2[pa + i] = res[i + 1] end
+end
+else
+local sig
+if op < 4 then sig = _z31_edd88f8[_z48_1ef6705(865053, _z11_bb09f73)](op, a, b, c)
+elseif op < 8 then sig = _z31_edd88f8[_z48_1ef6705(878152, _z11_bb09f73)](op, a, b, c)
+elseif op < 11 then sig = _z31_edd88f8[_z48_1ef6705(891251, _z11_bb09f73)](op, a, b, c)
+elseif op < 14 then sig = _z31_edd88f8[_z48_1ef6705(904350, _z11_bb09f73)](op, a, b, c)
+elseif op < 18 then sig = _z31_edd88f8[_z48_1ef6705(917449, _z11_bb09f73)](op, a, b, c)
+else sig = _z31_edd88f8[_z48_1ef6705(930548, _z11_bb09f73)](op, a, b, c) end
+if sig == 2 then return _z14_1d3c953(_z56_4e200be, 1, _z10_e3024af) end
+if sig == 1 then continue end
+end
+pc = pc + 1
+until false
+end
+_z27_84854cf = 58 + ((_z17_5403899~=724323310) and 830 or 0)
+elseif _z27_84854cf == 22 then
+_z47_c6db0cc = _z2_d028ac9()
+_z27_84854cf = 177 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 2094 or 0)
+elseif _z27_84854cf == 176 then
+_z4_79c86f9[53] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 48 + ((_z17_5403899~=724323310) and 2813 or 0)
+elseif _z27_84854cf == 17 then
+MAX_CONSTS = 1048576
+_z27_84854cf = 131
+elseif _z27_84854cf == 98 then
+_z4_79c86f9[75] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 219 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 1210 or 0)
+elseif _z27_84854cf == 200 then
+_z4_79c86f9[94] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if c < b then continue end end
+if b < op then return _z4_79c86f9[52](op, a, c, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 6 + ((_z9_92de782~=4100894434) and 1593 or 0)
+elseif _z27_84854cf == 116 then
+_z4_79c86f9[41] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 25 + ((_z9_92de782~=4100894434) and 3781 or 0)
+elseif _z27_84854cf == 96 then
+_z4_79c86f9[132] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+if c < b then return _z4_79c86f9[64](op, c, a, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 26 + ((_z9_92de782~=4100894434) and 2410 or 0)
+elseif _z27_84854cf == 190 then
+_z6_07b86da[10] = function(x, y) return x[y] end
+_z27_84854cf = 84 + ((_z17_5403899~=724323310) and 1801 or 0)
+elseif _z27_84854cf == 1 then
+_z4_79c86f9[141] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 75 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 3952 or 0)
+elseif _z27_84854cf == 88 then
+_z6_07b86da[121] = function(x, y) return x > y end
+_z27_84854cf = 139 + ((_z9_92de782~=4100894434) and 2373 or 0)
+elseif _z27_84854cf == 70 then
+_z4_79c86f9[116] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < a then continue end end
+if b < op then return _z4_79c86f9[65](a, b, op, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 55 + ((_z9_92de782~=4100894434) and 1816 or 0)
+elseif _z27_84854cf == 187 then
+_z4_79c86f9[113] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 2
+if b < c then return _z4_79c86f9[81](c, b, op, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 172 + ((_z9_92de782~=4100894434) and 3345 or 0)
+elseif _z27_84854cf == 95 then
+_z4_79c86f9[6] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 206 + ((_z17_5403899~=724323310) and 1001 or 0)
+elseif _z27_84854cf == 82 then
+_z4_79c86f9[131] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 96 + ((_z17_5403899~=724323310) and 1363 or 0)
+elseif _z27_84854cf == 186 then
+_z37_a4edb51 = 3602289753
+_z27_84854cf = 132
+elseif _z27_84854cf == 26 then
+_z4_79c86f9[133] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if c < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 3
+if b < op then return _z4_79c86f9[34](b, a, c, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 151 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 3408 or 0)
+elseif _z27_84854cf == 169 then
+_z4_79c86f9[79] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if a < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+if op < a then return _z4_79c86f9[36](op, c, a, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 133 + ((_z17_5403899~=724323310) and 136 or 0)
+elseif _z27_84854cf == 14 then
+_z40_6778bdf = _z32_df7cf0f.pool
+_z27_84854cf = 91 + ((_z17_5403899~=724323310) and 2452 or 0)
+elseif _z27_84854cf == 41 then
+_z6_07b86da[208] = function(x) return not x end
+_z27_84854cf = 199 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 1130 or 0)
+elseif _z27_84854cf == 24 then
+_z42_c7cf7b3 = {}
+_z27_84854cf = 149 + ((_z9_92de782~=4100894434) and 626 or 0)
+elseif _z27_84854cf == 80 then
+_z4_79c86f9[8] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 40 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 3532 or 0)
+elseif _z27_84854cf == 12 then
+_z9_92de782 = _z37_a4edb51
+_z27_84854cf = 62
+elseif _z27_84854cf == 202 then
+_z4_79c86f9[98] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+if a < b then return _z4_79c86f9[7](c, op, a, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 192 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 1278 or 0)
+elseif _z27_84854cf == 175 then
+MAX_POOL = 1048576
+_z27_84854cf = 129
+elseif _z27_84854cf == 140 then
+_z6_07b86da[92] = function(x, y) return x <= y end
+_z27_84854cf = 88 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 772 or 0)
+elseif _z27_84854cf == 61 then
+_z4_79c86f9[143] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 60 + ((_z9_92de782~=4100894434) and 50 or 0)
+elseif _z27_84854cf == 117 then
+_z4_79c86f9[125] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 51 + ((_z17_5403899~=724323310) and 2396 or 0)
+elseif _z27_84854cf == 91 then
+__SC = _z32_df7cf0f.sc
+_z27_84854cf = 18 + ((_z9_92de782~=4100894434) and 11 or 0)
+elseif _z27_84854cf == 180 then
+_z4_79c86f9[62] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 4
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 36 + ((_z9_92de782~=4100894434) and 3741 or 0)
+elseif _z27_84854cf == 194 then
+do
+
+local bxor, lrot, band, bor = bit32.bxor, bit32.lrotate, bit32.band, bit32.bor
+local floor = math.floor
+local function u32(x) return x % 4294967296 end
+local function qr(s, a, b, c, d)
+s[a] = u32(s[a] + s[b]); s[d] = lrot(bxor(s[d], s[a]), 16)
+s[c] = u32(s[c] + s[d]); s[b] = lrot(bxor(s[b], s[c]), 12)
+s[a] = u32(s[a] + s[b]); s[d] = lrot(bxor(s[d], s[a]), 8)
+s[c] = u32(s[c] + s[d]); s[b] = lrot(bxor(s[b], s[c]), 7)
+end
+local function _z45_e5df38e(b, off)
+return b[off] + b[off + 1] * 256 + b[off + 2] * 65536 + b[off + 3] * 16777216
+end
+local function _z16_5f423af(key, counter, nonce)
+local s = {
+bit32.bxor(0xd729932f, 0xb659eb4a), bit32.bxor(0xb0525990, 0x83723dfe), bit32.bxor(0x49e8453c, 0x308a680e), bit32.bxor(0xe8c4c6ce, 0x83e4a3ba),
+_z45_e5df38e(key, 1), _z45_e5df38e(key, 5), _z45_e5df38e(key, 9), _z45_e5df38e(key, 13),
+_z45_e5df38e(key, 17), _z45_e5df38e(key, 21), _z45_e5df38e(key, 25), _z45_e5df38e(key, 29),
+counter, _z45_e5df38e(nonce, 1), _z45_e5df38e(nonce, 5), _z45_e5df38e(nonce, 9),
+}
+local w = {}
+for i = 1, 16 do w[i] = s[i] end
+for _ = 1, 10 do
+qr(w,1,5,9,13); qr(w,2,6,10,14); qr(w,3,7,11,15); qr(w,4,8,12,16)
+qr(w,1,6,11,16); qr(w,2,7,12,13); qr(w,3,8,9,14); qr(w,4,5,10,15)
+end
+local out = {}
+for i = 1, 16 do
+local v = u32(w[i] + s[i])
+local b = (i - 1) * 4
+out[b+1] = v % 256; out[b+2] = floor(v/256) % 256
+out[b+3] = floor(v/65536) % 256; out[b+4] = floor(v/16777216) % 256
+end
+return out
+end
+local function _z39_455578c(key, counter0, nonce, data, dlen)
+local out, block = {}, nil
+for i = 0, dlen - 1 do
+local bi = i % 64
+if bi == 0 then block = _z16_5f423af(key, counter0 + floor(i/64), nonce) end
+out[i+1] = bxor(data[i+1], block[bi+1])
+end
+return out
+end
+local function _z53_8169005(bytes, off, nbytes, append)
+local L = {0,0,0,0,0,0,0,0,0,0}
+local acc, accbits, li = 0, 0, 1
+for i = 0, nbytes - 1 do
+acc = acc + bytes[off+i] * (2 ^ accbits); accbits = accbits + 8
+while accbits >= 13 do L[li] = acc % 8192; acc = floor(acc/8192); accbits = accbits - 13; li = li + 1 end
+end
+if append then
+acc = acc + (2 ^ accbits); accbits = accbits + 1
+while accbits >= 13 and li <= 10 do L[li] = acc % 8192; acc = floor(acc/8192); accbits = accbits - 13; li = li + 1 end
+end
+if li <= 10 then L[li] = L[li] + acc end
+return L
+end
+local function _z7_031874a(a)
+local out = {}
+local acc, accbits, k = 0, 0, 1
+for i = 1, 10 do
+acc = acc + a[i] * (2 ^ accbits); accbits = accbits + 13
+while accbits >= 8 and k <= 16 do out[k] = acc % 256; acc = floor(acc/256); accbits = accbits - 8; k = k + 1 end
+end
+while k <= 16 do out[k] = acc % 256; acc = floor(acc/256); k = k + 1 end
+return out
+end
+local function _z43_656f69f(a, n)
+local r, c = {}, 0
+for k = 1, 10 do local v = a[k] + n[k] + c; r[k] = v % 8192; c = floor(v/8192) end
+while c > 0 do
+local v = r[1] + 5 * c; r[1] = v % 8192; c = floor(v/8192)
+local k = 2
+while c > 0 and k <= 10 do v = r[k] + c; r[k] = v % 8192; c = floor(v/8192); k = k + 1 end
+end
+return r
+end
+local function _z8_420d817(a, b)
+local d = {}
+for k = 1, 19 do d[k] = 0 end
+for i = 1, 10 do
+local ai = a[i]
+if ai ~= 0 then for j = 1, 10 do d[i+j-1] = d[i+j-1] + ai * b[j] end end
+end
+for k = 19, 11, -1 do d[k-10] = d[k-10] + 5 * d[k]; d[k] = 0 end
+local c = 0
+for k = 1, 10 do local v = d[k] + c; d[k] = v % 8192; c = floor(v/8192) end
+while c > 0 do
+local v = d[1] + 5 * c; d[1] = v % 8192; c = floor(v/8192)
+local k = 2
+while c > 0 and k <= 10 do v = d[k] + c; d[k] = v % 8192; c = floor(v/8192); k = k + 1 end
+end
+local r = {}
+for k = 1, 10 do r[k] = d[k] end
+return r
+end
+local _z52_1c23104 = {8187,8191,8191,8191,8191,8191,8191,8191,8191,8191}
+local function _z44_5d6c8f5(a)
+local diff, borrow = {}, 0
+for k = 1, 10 do
+local v = a[k] - _z52_1c23104[k] - borrow
+if v < 0 then v = v + 8192; borrow = 1 else borrow = 0 end
+diff[k] = v
+end
+if borrow == 0 then return diff else return a end
+end
+local function _z51_a5adfbc(rkey, data, dlen)
+local r = {}
+for i = 1, 16 do r[i] = rkey[i] end
+r[4] = band(r[4],15); r[8] = band(r[8],15); r[12] = band(r[12],15); r[16] = band(r[16],15)
+r[5] = band(r[5],252); r[9] = band(r[9],252); r[13] = band(r[13],252)
+local rl = _z53_8169005(r, 1, 16, false)
+local s = {}
+for i = 1, 16 do s[i] = rkey[16+i] end
+local a = {0,0,0,0,0,0,0,0,0,0}
+local i = 0
+while i < dlen do
+local blen = math.min(16, dlen - i)
+a = _z43_656f69f(a, _z53_8169005(data, i+1, blen, true))
+a = _z8_420d817(rl, a)
+i = i + blen
+end
+a = _z44_5d6c8f5(a)
+local ab = _z7_031874a(a)
+local tag, c = {}, 0
+for k = 1, 16 do local v = ab[k] + s[k] + c; tag[k] = v % 256; c = floor(v/256) end
+return tag
+end
+local function _z38_06dc9d9(key, nonce)
+local block = _z16_5f423af(key, 0, nonce)
+local _z18_1c6da72 = {}
+for i = 1, 32 do _z18_1c6da72[i] = block[i] end
+return _z18_1c6da72
+end
+local function _z15_3cfb399(aad, alen, ct, clen)
+local mac, mi = {}, 0
+for i = 1, alen do mi = mi + 1; mac[mi] = aad[i] end
+local pa = alen % 16
+if pa ~= 0 then for _ = 1, 16 - pa do mi = mi + 1; mac[mi] = 0 end end
+for i = 1, clen do mi = mi + 1; mac[mi] = ct[i] end
+local pc = clen % 16
+if pc ~= 0 then for _ = 1, 16 - pc do mi = mi + 1; mac[mi] = 0 end end
+local function le64(len)
+local x = len
+for _ = 1, 4 do mi = mi + 1; mac[mi] = x % 256; x = floor(x/256) end
+for _ = 1, 4 do mi = mi + 1; mac[mi] = 0 end
+end
+le64(alen); le64(clen)
+return mac, mi
+end
+
+function _z13_5de5492(key, nonce, aad, alen, ct, clen, tag)
+local _z18_1c6da72 = _z38_06dc9d9(key, nonce)
+local mac, maclen = _z15_3cfb399(aad, alen, ct, clen)
+local expected = _z51_a5adfbc(_z18_1c6da72, mac, maclen)
+local diff = 0
+for i = 1, 16 do diff = bor(diff, bxor(expected[i], tag[i])) end
+if diff ~= 0 then return nil end
+return _z39_455578c(key, 1, nonce, ct, clen)
+end
+end
+_z27_84854cf = 211
+elseif _z27_84854cf == 160 then
+_z4_79c86f9[103] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 108 + ((_z17_5403899~=724323310) and 3577 or 0)
+elseif _z27_84854cf == 199 then
+_z6_07b86da[237] = function(x) return #x end
+_z27_84854cf = 33 + ((_z9_92de782~=4100894434) and 3532 or 0)
+elseif _z27_84854cf == 129 then
+_z1_0556388 = function(S, start)
+local n = #S
+local pos = start
+local function u8()
+if pos > n then error() end
+local v = _z0_5b0cfd3(S, pos) pos = pos + 1 return v
+end
+local function take(k)
+if pos + k - 1 > n then error() end
+local off = pos pos = pos + k return off
+end
+local function u16() local lo = u8() local hi = u8() return lo + hi * 256 end
+local function uleb()
+local result, shift, cnt = 0, 1, 0
+while true do
+local b = u8() cnt = cnt + 1
+if cnt > 5 then error() end
+result = result + (b % 128) * shift
+if b < 128 then
+if result > 4294967295 then error() end
+return result
+end
+shift = shift * 128
+end
+end
+local function sleb()
+local result, shift, cnt = 0, 1, 0
+while true do
+local b = u8() cnt = cnt + 1
+if cnt > 5 then error() end
+result = result + (b % 128) * shift
+shift = shift * 128
+if b < 128 then
+if b % 128 >= 64 then result = result - shift end
+if result < -2147483648 or result > 2147483647 then error() end
+return result
+end
+end
+end
+local function count(max)
+local c = uleb()
+if c > max then error() end
+if c > n - pos + 1 then error() end
+return c
+end
+local function eof() if pos ~= n + 1 then error() end end
+local function at() return pos end
+return u8, take, u16, uleb, sleb, count, eof, at
+end
+_z27_84854cf = 22
+elseif _z27_84854cf == 49 then
+_z4_79c86f9[26] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 208 + ((_z17_5403899~=724323310) and 2730 or 0)
+elseif _z27_84854cf == 55 then
+_z4_79c86f9[117] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < a then continue end end
+if a < b then return _z4_79c86f9[116](a, b, c, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 126 + ((_z17_5403899~=724323310) and 1783 or 0)
+elseif _z27_84854cf == 60 then
+_z4_79c86f9[144] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 3
+if b < op then return _z4_79c86f9[100](op, a, c, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 86 + ((_z9_92de782~=4100894434) and 3000 or 0)
+elseif _z27_84854cf == 198 then
+_z4_79c86f9[83] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 103 + ((_z17_5403899~=724323310) and 2244 or 0)
+elseif _z27_84854cf == 218 then
+_z4_79c86f9[147] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+if op < b then return _z4_79c86f9[93](b, a, c, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 30 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 2978 or 0)
+elseif _z27_84854cf == 197 then
+_z4_79c86f9[81] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 170 + ((_z9_92de782~=4100894434) and 2652 or 0)
+elseif _z27_84854cf == 59 then
+_z4_79c86f9[124] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 117 + ((_z17_5403899~=724323310) and 116 or 0)
+elseif _z27_84854cf == 66 then
+_z6_07b86da[116] = function(x, y) return x / y end
+_z27_84854cf = 81 + ((_z9_92de782~=4100894434) and 821 or 0)
+elseif _z27_84854cf == 205 then
+_z4_79c86f9[110] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 105 + ((_z9_92de782~=4100894434) and 1044 or 0)
+elseif _z27_84854cf == 132 then
+for __i = 1, 11 do
+_z37_a4edb51 = bit32.bxor(_z37_a4edb51, bit32.lshift(_z37_a4edb51, 13))
+_z37_a4edb51 = bit32.bxor(_z37_a4edb51, bit32.rshift(_z37_a4edb51, 17))
+_z37_a4edb51 = bit32.bxor(_z37_a4edb51, bit32.lshift(_z37_a4edb51, 5))
+end
+_z27_84854cf = 12
+elseif _z27_84854cf == 13 then
+_z4_79c86f9[12] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+if b < c then return _z4_79c86f9[0](op, a, c, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 32 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 1164 or 0)
+elseif _z27_84854cf == 217 then
+_z4_79c86f9[107] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 162 + ((_z17_5403899~=724323310) and 1395 or 0)
+elseif _z27_84854cf == 150 then
+_z57_8d67057 = string.sub
+_z27_84854cf = 125
+elseif _z27_84854cf == 215 then
+_z4_79c86f9[15] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < c then continue end end
+if a < c then return _z4_79c86f9[7](b, op, c, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 74 + ((_z17_5403899~=724323310) and 2747 or 0)
+elseif _z27_84854cf == 154 then
+_z4_79c86f9[24] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 79 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 2016 or 0)
+elseif _z27_84854cf == 157 then
+_z4_79c86f9[120] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+if a < b then return _z4_79c86f9[39](c, b, a, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 209 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 2610 or 0)
+elseif _z27_84854cf == 166 then
+_z49_606af11 = 0
+_z27_84854cf = 37
+elseif _z27_84854cf == 145 then
+_z4_79c86f9[69] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+if op < a then return _z4_79c86f9[25](b, c, op, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 214 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 782 or 0)
+elseif _z27_84854cf == 126 then
+_z4_79c86f9[118] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 4
+if c < op then return _z4_79c86f9[104](b, c, op, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 113 + ((_z17_5403899~=724323310) and 2993 or 0)
+elseif _z27_84854cf == 171 then
+return _z35_00aa235(0, {}, ...)
+elseif _z27_84854cf == 201 then
+_z4_79c86f9[34] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 163 + ((_z17_5403899~=724323310) and 250 or 0)
+elseif _z27_84854cf == 206 then
+_z4_79c86f9[7] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 80 + ((_z17_5403899~=724323310) and 1911 or 0)
+elseif _z27_84854cf == 136 then
+_z17_5403899 = bit32.bxor(bit32.bxor(_z17_5403899, bit32.lshift(_z17_5403899, 5)), math.floor(Vector3.new(1,4,8).Magnitude + 0.5))
+_z27_84854cf = 99
+elseif _z27_84854cf == 72 then
+_z21_71c173c, _z5_bad345c, _z22_b3e4f13, _z24_c786def = _z32_df7cf0f.S, _z32_df7cf0f.off, _z32_df7cf0f.fo, {}
+_z27_84854cf = 14 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 3582 or 0)
+elseif _z27_84854cf == 62 then
+_z17_5403899 = 1386627927
+_z27_84854cf = 213
+elseif _z27_84854cf == 104 then
+_z4_79c86f9[31] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 52 + ((_z9_92de782~=4100894434) and 2630 or 0)
+elseif _z27_84854cf == 112 then
+_z4_79c86f9[38] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 165 + ((_z17_5403899~=724323310) and 2770 or 0)
+elseif _z27_84854cf == 141 then
+_z6_07b86da[29] = function(x, y) return x + y end
+_z27_84854cf = 216 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 3732 or 0)
+elseif _z27_84854cf == 34 then
+_z4_79c86f9[21] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 89 + ((_z17_5403899~=724323310) and 2914 or 0)
+elseif _z27_84854cf == 151 then
+_z4_79c86f9[134] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 90 + ((_z9_92de782~=4100894434) and 708 or 0)
+elseif _z27_84854cf == 158 then
+_z4_79c86f9[55] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 28 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 2804 or 0)
+elseif _z27_84854cf == 53 then
+_z4_79c86f9[93] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 3
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 200 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 2061 or 0)
+elseif _z27_84854cf == 42 then
+_z3_8bf1b4d = string.char
+_z27_84854cf = 35
+elseif _z27_84854cf == 177 then
+_z26_5bf091a = function(S)
+local u8, take, u16, uleb, sleb, count, eof, at = _z1_0556388(S, 1)
+if u8() ~= 82 or u8() ~= 66 or u8() ~= 88 or u8() ~= 79 then error() end
+if u16() ~= 2 then error() end
+local fo = { u8(), u8(), u8(), u8() }
+local seen = {}
+for i = 1, 4 do local f = fo[i] if f > 3 or seen[f] then error() end seen[f] = true end
+local disp = u8() if disp > 1 then error() end
+local npool = count(MAX_POOL)
+local pool = {}
+for i = 1, npool do local ps = uleb() local plen = count(MAX_BYTES) local poff = take(plen) pool[i] = { start = ps, off = poff, len = plen } end
+local nprotos = count(MAX_PROTOS)
+local off = {}
+local sc = {}
+local acc = 865053
+local kop = {}
+for gi = 0, nprotos - 1 do
+off[gi] = at()
+sc[gi] = acc
+kop[gi] = _z9_92de782
+uleb() u8()
+local nup = count(MAX_UPVALS)
+for i = 1, nup do local kind = u8() if kind > 1 then error() end uleb() end
+local nk = count(MAX_CONSTS)
+for i = 1, nk do
+local tag = u8()
+if tag == 0 then
+elseif tag == 1 then u8()
+elseif tag == 2 then
+local len = count(MAX_BYTES) local off2 = take(len)
+for j = 0, len - 1 do if _z0_5b0cfd3(S, off2 + j) >= 128 then error() end end
+elseif tag == 3 then local ss = uleb() local rs = _z48_1ef6705(ss, acc) acc = (acc + rs) % 4294967296 local len = count(MAX_BYTES) take(len)
+elseif tag == 4 then uleb() local len = count(MAX_BYTES) take(len)
+elseif tag == 5 then local idx = uleb() if idx >= npool then error() end
+else error() end
+end
+local ncode = count(MAX_CODE)
+for i = 1, ncode do local _z6_07b86da = uleb() sleb() sleb() sleb() _z9_92de782 = _z48_1ef6705(_z48_1ef6705(_z9_92de782, bit32.lshift(_z9_92de782, 5)), _z6_07b86da) end
+end
+eof()
+return { S = S, fo = fo, disp = disp, n = nprotos, off = off, pool = pool, sc = sc, kop = kop }
+end
+_z27_84854cf = 137 + ((_z17_5403899~=724323310) and 757 or 0)
+elseif _z27_84854cf == 204 then
+_z4_79c86f9[3] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+if a < op then return _z4_79c86f9[2](c, a, b, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 188 + ((_z17_5403899~=724323310) and 3378 or 0)
+elseif _z27_84854cf == 105 then
+_z4_79c86f9[111] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if c < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 4
+if b < a then return _z4_79c86f9[11](b, a, op, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 63 + ((_z9_92de782~=4100894434) and 589 or 0)
+elseif _z27_84854cf == 184 then
+_z4_79c86f9[64] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 9 + ((_z9_92de782~=4100894434) and 3893 or 0)
+elseif _z27_84854cf == 33 then
+_z6_07b86da[5] = function(x, y) return x == y end
+_z27_84854cf = 45 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 1990 or 0)
+elseif _z27_84854cf == 8 then
+_z4_79c86f9[5] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 4
+if b < op then return _z4_79c86f9[1](a, op, c, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 95 + ((_z17_5403899~=724323310) and 2797 or 0)
+elseif _z27_84854cf == 111 then
+_z4_79c86f9[19] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 161 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 1931 or 0)
+elseif _z27_84854cf == 29 then
+_z4_79c86f9[48] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 2
+if c < b then return _z4_79c86f9[13](b, op, a, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 189 + ((_z17_5403899~=724323310) and 1896 or 0)
+elseif _z27_84854cf == 68 then
+_z4_79c86f9[89] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 174 + ((_z9_92de782~=4100894434) and 93 or 0)
+elseif _z27_84854cf == 65 then
+_z4_79c86f9[58] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 142 + ((_z9_92de782~=4100894434) and 3533 or 0)
+elseif _z27_84854cf == 125 then
+_z46_2fcdc1b = function(S, off, len, start)
+local st = start
+local out = table.create and table.create(len) or {}
+for i = 1, len do
+st = (st * _z48_1ef6705(799294444, _z48_1ef6705(_z48_1ef6705(_z9_92de782, _z17_5403899), _z49_606af11)) + _z48_1ef6705(3503388352, _z48_1ef6705(_z48_1ef6705(_z9_92de782, _z17_5403899), _z49_606af11))) % 4294967296
+local k = math.floor(st / 16777216) % 256
+out[i] = _z3_8bf1b4d(_z48_1ef6705(_z0_5b0cfd3(S, off + i - 1), k))
+end
+return table.concat(out)
+end
+_z27_84854cf = 207
+elseif _z27_84854cf == 85 then
+_z4_79c86f9[91] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+if c < b then return _z4_79c86f9[89](op, a, c, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 135 + ((_z9_92de782~=4100894434) and 1109 or 0)
+elseif _z27_84854cf == 113 then
+_z4_79c86f9[119] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 2
+if op < c then return _z4_79c86f9[42](op, b, c, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 157 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 4064 or 0)
+elseif _z27_84854cf == 46 then
+_z4_79c86f9[43] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+if c < op then return _z4_79c86f9[18](c, b, a, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 64 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 1710 or 0)
+elseif _z27_84854cf == 193 then
+_z2_d028ac9 = function()
+local E = _z54_0433a39
+local n = #E
+if n < 49 then error() end
+if _z0_5b0cfd3(E,1) ~= 82 or _z0_5b0cfd3(E,2) ~= 66 or _z0_5b0cfd3(E,3) ~= 88 or _z0_5b0cfd3(E,4) ~= 69 then error() end
+if _z0_5b0cfd3(E,5) ~= 1 or _z0_5b0cfd3(E,6) ~= 0 then error() end
+if _z0_5b0cfd3(E,7) ~= 1 then error() end
+local ct_len = _z0_5b0cfd3(E,30) + _z0_5b0cfd3(E,31)*256 + _z0_5b0cfd3(E,32)*65536 + _z0_5b0cfd3(E,33)*16777216
+if 49 + ct_len ~= n then error() end
+local aad = {}
+for i = 1, 17 do aad[i] = _z0_5b0cfd3(E, i) end
+aad[18] = _z0_5b0cfd3(E,30) aad[19] = _z0_5b0cfd3(E,31) aad[20] = _z0_5b0cfd3(E,32) aad[21] = _z0_5b0cfd3(E,33)
+local nonce = {}
+for i = 1, 12 do nonce[i] = _z0_5b0cfd3(E, 17 + i) end
+local ct = {}
+for i = 1, ct_len do ct[i] = _z0_5b0cfd3(E, 33 + i) end
+local tag = {}
+for i = 1, 16 do tag[i] = _z0_5b0cfd3(E, 33 + ct_len + i) end
+local pt = _z13_5de5492(_z23_9dd5348, nonce, aad, 21, ct, ct_len, tag)
+if pt == nil then error() end
+return _z28_455ad08(pt, ct_len)
+end
+_z27_84854cf = 124
+elseif _z27_84854cf == 30 then
+_z4_79c86f9[148] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if a < b then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if a < b then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 97 + ((_z17_5403899~=724323310) and 252 or 0)
+elseif _z27_84854cf == 67 then
+_z6_07b86da[174] = function(x, y) return x % y end
+_z27_84854cf = 101 + ((_z17_5403899~=724323310) and 305 or 0)
+elseif _z27_84854cf == 119 then
+_z17_5403899 = bit32.bxor(bit32.bxor(_z17_5403899, bit32.lshift(_z17_5403899, 5)), math.floor(Vector2.new(20,21).Magnitude + 0.5))
+_z27_84854cf = 57
+elseif _z27_84854cf == 163 then
+_z4_79c86f9[35] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 121 + ((_z9_92de782~=4100894434) and 1175 or 0)
+elseif _z27_84854cf == 44 then
+_z4_79c86f9[101] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 2 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 3547 or 0)
+elseif _z27_84854cf == 79 then
+_z4_79c86f9[25] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if c < b then continue end end
+if c < b then return _z4_79c86f9[16](a, c, b, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 49 + ((_z9_92de782~=4100894434) and 2646 or 0)
+elseif _z27_84854cf == 89 then
+_z4_79c86f9[22] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 164 + ((_z9_92de782~=4100894434) and 504 or 0)
+elseif _z27_84854cf == 64 then
+_z4_79c86f9[44] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+if op < a then return _z4_79c86f9[19](c, op, b, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 183 + ((_z9_92de782~=4100894434) and 2919 or 0)
+elseif _z27_84854cf == 11 then
+_z6_07b86da[232] = function(x, y) return x .. y end
+_z27_84854cf = 16 + ((_z9_92de782~=4100894434) and 1462 or 0)
+elseif _z27_84854cf == 23 then
+_z4_79c86f9[52] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 176 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 831 or 0)
+elseif _z27_84854cf == 153 then
+_z50_f64bb44 = {}
+_z27_84854cf = 92 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 2536 or 0)
+elseif _z27_84854cf == 56 then
+_z4_79c86f9[136] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end end
+if op < c then return _z4_79c86f9[43](c, op, a, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 130 + ((_z9_92de782~=4100894434) and 3161 or 0)
+elseif _z27_84854cf == 155 then
+_z4_79c86f9[123] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 59 + ((_z9_92de782~=4100894434) and 3072 or 0)
+elseif _z27_84854cf == 147 then
+_z4_79c86f9[138] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 148 + ((_z17_5403899~=724323310) and 3667 or 0)
+elseif _z27_84854cf == 16 then
+_z6_07b86da[179] = function(x) return -x end
+_z27_84854cf = 41 + ((_z17_5403899~=724323310) and 11 or 0)
+elseif _z27_84854cf == 208 then
+_z4_79c86f9[27] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 3
+if b < a then return _z4_79c86f9[7](op, a, c, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 152 + ((_z9_92de782~=4100894434) and 4 or 0)
+elseif _z27_84854cf == 28 then
+_z4_79c86f9[56] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 168 + ((_z17_5403899~=724323310) and 3577 or 0)
+elseif _z27_84854cf == 115 then
+_z4_79c86f9[97] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 202 + ((_z17_5403899~=724323310) and 1485 or 0)
+elseif _z27_84854cf == 50 then
+_z4_79c86f9[140] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 1 + ((_z9_92de782~=4100894434) and 2755 or 0)
+elseif _z27_84854cf == 51 then
+_z4_79c86f9[126] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 123 + ((_z17_5403899~=724323310) and 1265 or 0)
+elseif _z27_84854cf == 76 then
+_z4_79c86f9[78] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+if c < op then return _z4_79c86f9[52](b, a, c, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 169 + ((_z17_5403899~=724323310) and 3156 or 0)
+elseif _z27_84854cf == 143 then
+_z4_79c86f9[46] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 110 + ((_z17_5403899~=724323310) and 2069 or 0)
+elseif _z27_84854cf == 74 then
+_z4_79c86f9[16] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+if a < op then return _z4_79c86f9[12](op, a, c, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 114 + ((_z17_5403899~=724323310) and 3545 or 0)
+elseif _z27_84854cf == 139 then
+_z6_07b86da[150] = function(x, y) return x >= y end
+_z27_84854cf = 24 + ((_z17_5403899~=724323310) and 3065 or 0)
+elseif _z27_84854cf == 102 then
+_z4_79c86f9[115] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end end
+if b < a then return _z4_79c86f9[55](op, c, b, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 70 + ((_z9_92de782~=4100894434) and 1391 or 0)
+elseif _z27_84854cf == 188 then
+_z4_79c86f9[4] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 8 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 1634 or 0)
+elseif _z27_84854cf == 142 then
+_z4_79c86f9[59] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 4 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 3876 or 0)
+elseif _z27_84854cf == 183 then
+_z4_79c86f9[45] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 143 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 877 or 0)
+elseif _z27_84854cf == 107 then
+_z4_79c86f9[77] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+if b < a then return _z4_79c86f9[67](c, a, b, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 76 + ((_z17_5403899~=724323310) and 1409 or 0)
+elseif _z27_84854cf == 63 then
+_z4_79c86f9[112] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 187 + ((_z17_5403899~=724323310) and 2161 or 0)
+elseif _z27_84854cf == 124 then
+MAX_PROTOS = 1048576
+_z27_84854cf = 27
+elseif _z27_84854cf == 128 then
+_z4_79c86f9[146] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 218 + ((_z9_92de782~=4100894434) and 112 or 0)
+elseif _z27_84854cf == 210 then
+_z4_79c86f9[71] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 195 + ((_z9_92de782~=4100894434) and 471 or 0)
+elseif _z27_84854cf == 45 then
+_z6_07b86da[34] = function(x, y) return x ~= y end
+_z27_84854cf = 100 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 584 or 0)
+elseif _z27_84854cf == 195 then
+_z4_79c86f9[72] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 87 + ((_z17_5403899~=724323310) and 3181 or 0)
+elseif _z27_84854cf == 114 then
+_z4_79c86f9[17] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 71 + ((_z17_5403899~=724323310) and 2013 or 0)
+elseif _z27_84854cf == 6 then
+_z4_79c86f9[95] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 21 + ((_z17_5403899~=724323310) and 2170 or 0)
+elseif _z27_84854cf == 146 then
+_z6_07b86da = {}
+_z27_84854cf = 190 + ((_z17_5403899~=724323310) and 2959 or 0)
+elseif _z27_84854cf == 178 then
+_z4_79c86f9[2] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+if b < c then return _z4_79c86f9[1](b, a, op, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 204 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 2108 or 0)
+elseif _z27_84854cf == 15 then
+_z6_07b86da[87] = function(x, y) return x * y end
+_z27_84854cf = 66 + ((_z17_5403899~=724323310) and 2122 or 0)
+elseif _z27_84854cf == 75 then
+_z4_79c86f9[142] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 61 + ((_z17_5403899~=724323310) and 3358 or 0)
+elseif _z27_84854cf == 172 then
+_z4_79c86f9[114] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+if c < a then return _z4_79c86f9[98](c, b, a, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 102 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 3060 or 0)
+elseif _z27_84854cf == 123 then
+_z4_79c86f9[127] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 185 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 229 or 0)
+elseif _z27_84854cf == 47 then
+MAX_BYTES = 67108864
+_z27_84854cf = 175
+elseif _z27_84854cf == 25 then
+_z4_79c86f9[42] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 46 + ((_z9_92de782~=4100894434) and 96 or 0)
+elseif _z27_84854cf == 216 then
+_z6_07b86da[58] = function(x, y) return x - y end
+_z27_84854cf = 15 + ((_z9_92de782~=4100894434) and 3770 or 0)
+elseif _z27_84854cf == 164 then
+_z4_79c86f9[23] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 154 + ((_z17_5403899~=724323310) and 3948 or 0)
+elseif _z27_84854cf == 21 then
+_z4_79c86f9[96] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 115 + ((_z9_92de782~=4100894434) and 2171 or 0)
+elseif _z27_84854cf == 3 then
+_z4_79c86f9[74] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 98 + ((_z9_92de782~=4100894434) and 3245 or 0)
+elseif _z27_84854cf == 71 then
+_z4_79c86f9[18] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if b < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+if b < op then return _z4_79c86f9[9](a, b, c, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 111 + ((_z9_92de782~=4100894434) and 1050 or 0)
+elseif _z27_84854cf == 83 then
+_z4_79c86f9[61] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 180 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 494 or 0)
+elseif _z27_84854cf == 77 then
+_z17_5403899 = bit32.bxor(bit32.bxor(_z17_5403899, bit32.lshift(_z17_5403899, 5)), math.floor(Vector2.new(5,12).Magnitude + 0.5))
+_z27_84854cf = 136
+elseif _z27_84854cf == 168 then
+_z4_79c86f9[57] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 65 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 3512 or 0)
+elseif _z27_84854cf == 2 then
+_z4_79c86f9[102] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 3
+if c < b then return _z4_79c86f9[66](c, b, a, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 160 + ((_z17_5403899~=724323310) and 1511 or 0)
+elseif _z27_84854cf == 121 then
+_z4_79c86f9[36] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 2
+if a < op then return _z4_79c86f9[22](c, b, op, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 134 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 2727 or 0)
+elseif _z27_84854cf == 97 then
+_z4_79c86f9[149] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 4
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < c then continue end end
+if c < op then return _z4_79c86f9[29](b, op, c, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 212 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 4072 or 0)
+elseif _z27_84854cf == 106 then
+_z4_79c86f9[51] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 3
+if c < b then return _z4_79c86f9[11](op, b, a, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 23 + ((_z9_92de782~=4100894434) and 3457 or 0)
+elseif _z27_84854cf == 156 then
+_z4_79c86f9[130] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 82 + ((_z9_92de782~=4100894434) and 2389 or 0)
+elseif _z27_84854cf == 127 then
+_z4_79c86f9[105] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < a then continue end end
+if op < a then return _z4_79c86f9[18](a, op, b, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 144 + ((_z9_92de782~=4100894434) and 2502 or 0)
+elseif _z27_84854cf == 7 then
+_z4_79c86f9[10] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 4
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 203 + ((_z17_5403899~=724323310) and 1552 or 0)
+elseif _z27_84854cf == 92 then
+_z4_79c86f9 = {}
+_z27_84854cf = 118 + ((_z9_92de782~=4100894434) and 2977 or 0)
+elseif _z27_84854cf == 84 then
+_z6_07b86da[39] = function(t, k, v) t[k] = v end
+_z27_84854cf = 141 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 3371 or 0)
+elseif _z27_84854cf == 31 then
+_z34_6956aa2 = _G
+_z27_84854cf = 10
+elseif _z27_84854cf == 138 then
+_z4_79c86f9[66] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 69 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 1971 or 0)
+elseif _z27_84854cf == 144 then
+_z4_79c86f9[106] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 2
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 217 + ((_z17_5403899~=724323310) and 3150 or 0)
+elseif _z27_84854cf == 131 then
+MAX_CODE = 4194304
+_z27_84854cf = 47
+elseif _z27_84854cf == 137 then
+_z32_df7cf0f = _z26_5bf091a(_z47_c6db0cc)
+_z27_84854cf = 72 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 105 or 0)
+elseif _z27_84854cf == 90 then
+_z4_79c86f9[135] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 56 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 2589 or 0)
+elseif _z27_84854cf == 57 then
+_z17_5403899 = bit32.bxor(bit32.bxor(_z17_5403899, bit32.lshift(_z17_5403899, 5)), math.floor(Vector3.new(4,13,16):Dot(Vector3.new(1,1,1)) + 0.5))
+_z27_84854cf = 166
+elseif _z27_84854cf == 211 then
+_z28_455ad08 = function(t, n)
+local parts, pi, i = {}, 0, 1
+while i <= n do
+local j = i + 999 if j > n then j = n end
+pi = pi + 1 parts[pi] = _z3_8bf1b4d(_z14_1d3c953(t, i, j)) i = j + 1
+end
+return table.concat(parts)
+end
+_z27_84854cf = 193
+elseif _z27_84854cf == 120 then
+_z4_79c86f9[1] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < a then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 178 + ((_z9_92de782~=4100894434) and 3326 or 0)
+elseif _z27_84854cf == 52 then
+_z4_79c86f9[32] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 196 + ((_z17_5403899~=724323310) and 2204 or 0)
+elseif _z27_84854cf == 73 then
+_z4_79c86f9[29] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 39 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 1196 or 0)
+elseif _z27_84854cf == 182 then
+_z42_c7cf7b3[1] = function(pi, U, ...)
+local pr = _z33_972fb1e(pi)
+local K, C = pr.K, pr.C
+local B0, B1, B2 = {}, {}, {}
+local top = 0
+local np = pr.np
+for i = 0, np - 1 do B0[i] = select(i + 1, ...) end
+local VA, VAn = {}, 0
+if pr.va then
+VAn = select('#', ...) - np
+if VAn < 0 then VAn = 0 end
+for i = 1, VAn do VA[i] = select(np + i, ...) end
+end
+local pc = 0
+local _z56_4e200be, _z10_e3024af
+local _z55_318a0e9 = {}
+local _z11_bb09f73 = _z29_a62074c[pi]
+local _z30_085027e = _z11_bb09f73 % 65536
+local _z31_edd88f8 = {}
+_z31_edd88f8[_z48_1ef6705(865053, _z11_bb09f73)] = function(op, a, b, c)
+if op < 2 then
+if op < 1 then
+if op == 0 then
+pc = a
+return 1
+end
+else
+if op == 1 then
+B0[a] = _z6_07b86da[29](B0[b], B0[c])
+end
+end
+else
+if op < 5 then
+if op < 3 then
+if op == 2 then
+local pa = a + (2)
+local n = b
+if n < 0 then n = top - a end
+local rets = {}
+for i = 0, n - 1 do rets[i + 1] = B1[pa + i] end
+_z56_4e200be = rets _z10_e3024af = n return 2
+end
+else
+if op < 4 then
+if op == 3 then
+B0[a] = _z6_07b86da[5](B0[b], B0[c])
+end
+else
+if op == 4 then
+B0[a] = _z6_07b86da[87](B0[b], B0[c])
+end
+end
+end
+else
+if op < 7 then
+if op == 5 then
+local a0 = B0[a]
+local j1 = a0
+B0[b] = j1
+B0[c] = a0 * B0[b]
+end
+else
+if op == 7 then
+local __h2 = K[b] B2[a] = __h2
+end
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(878152, _z11_bb09f73)] = function(op, a, b, c)
+if op < 11 then
+if op < 9 then
+if op == 8 then
+local __h2 = U[b][1] B0[a] = __h2
+end
+else
+if op < 10 then
+if op == 9 then
+local __h2 = B1[b] B1[a] = __h2
+end
+else
+if op == 10 then
+local a0 = B0[b]
+B0[a] = { B0[a] }
+B0[c] = not a0
+end
+end
+end
+else
+if op < 13 then
+if op < 12 then
+if op == 11 then
+local pa = a + (0)
+if b < 0 then
+for i = 1, VAn do B0[pa + i - 1] = VA[i] end
+top = a + VAn
+else
+for i = 0, b - 1 do B0[pa + i] = VA[i + 1] end
+end
+end
+else
+if op == 12 then
+if B0[a] then pc = b return 1 end
+end
+end
+else
+if op == 13 then
+if not B0[a] then pc = b return 1 end
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(891251, _z11_bb09f73)] = function(op, a, b, c)
+if op < 17 then
+if op < 15 then
+if op == 14 then
+B0[a] = _z6_07b86da[232](B0[b], B0[c])
+end
+else
+if op == 15 then
+local val = not B0[a][1]
+B0[b] = val
+end
+end
+else
+if op < 21 then
+if op < 19 then
+if op == 17 then
+local __h2 = B0[b][1] B0[a] = __h2
+end
+else
+if op < 20 then
+if op == 19 then
+B0[b] = B0[c] * K[a]
+end
+else
+if op == 20 then
+local __h2 = K[b] B1[a] = __h2
+end
+end
+end
+else
+if op == 21 then
+local __h2 = _z34_6956aa2[K[b]] B1[a] = __h2
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(904350, _z11_bb09f73)] = function(op, a, b, c)
+if op < 25 then
+if op < 23 then
+if op == 22 then
+B1[a] = _z6_07b86da[232](B2[b], B1[c])
+end
+else
+if op < 24 then
+if op == 23 then
+local __h2 = B0[b] B0[a] = __h2
+end
+else
+if op == 24 then
+B1[b] = not B1[a]
+end
+end
+end
+else
+if op < 26 then
+if op == 25 then
+B0[a] = _z6_07b86da[34](B0[b], B0[c])
+end
+else
+if op < 27 then
+if op == 26 then
+B0[a] = _z6_07b86da[174](B0[b], B0[c])
+end
+else
+if op == 27 then
+B0[a] = _z6_07b86da[10](B0[b], B0[c])
+end
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(917449, _z11_bb09f73)] = function(op, a, b, c)
+if op < 29 then
+if op == 28 then
+local pa = a + (0)
+local n = b
+if n < 0 then n = top - a end
+local rets = {}
+for i = 0, n - 1 do rets[i + 1] = B0[pa + i] end
+_z56_4e200be = rets _z10_e3024af = n return 2
+end
+else
+if op < 31 then
+if op < 30 then
+if op == 29 then
+local cpi = b
+local desc = _z33_972fb1e(cpi).UP
+local Uc = {}
+for i = 1, #desc do
+local d = desc[i]
+if d[1] == 0 then Uc[i - 1] = B0[d[2]] else Uc[i - 1] = U[d[2]] end
+end
+B0[a] = function(...) return _z42_c7cf7b3[c](cpi, Uc, ...) end
+end
+else
+if op == 30 then
+local __h2 = U[b][1] B1[a] = __h2
+end
+end
+else
+if op < 33 then
+if op < 32 then
+if op == 31 then
+local __h2 = _z34_6956aa2[K[b]] B0[a] = __h2
+end
+else
+if op == 32 then
+if not B1[a] then pc = b return 1 end
+end
+end
+else
+if op == 33 then
+local __h2 = K[b] B0[a] = __h2
+end
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(2541725, _z11_bb09f73)] = function(op, a, b, c)
+_z55_318a0e9[a] = (K[b] or _z55_318a0e9[c] or 0)
+local _z12_66f8154 = 0
+while _z12_66f8154 < 3 do
+_z12_66f8154 = _z12_66f8154 + 1
+_z55_318a0e9[a] = (_z55_318a0e9[a] or 0) + _z12_66f8154
+if op < c then continue end
+_z55_318a0e9[b] = _z55_318a0e9[a]
+break
+end
+_z55_318a0e9[b] = (_z55_318a0e9[a] or 0) + (top or 0)
+return _z55_318a0e9[b]
+end
+_z31_edd88f8[_z48_1ef6705(2554824, _z11_bb09f73)] = function(op, a, b, c)
+_z55_318a0e9[a] = (K[b] or _z55_318a0e9[c] or 0)
+local _z12_66f8154 = 0
+while _z12_66f8154 < 3 do
+_z12_66f8154 = _z12_66f8154 + 1
+_z55_318a0e9[a] = (_z55_318a0e9[a] or 0) + _z12_66f8154
+if op < c then continue end
+_z55_318a0e9[b] = _z55_318a0e9[a]
+break
+end
+if op < b then return _z31_edd88f8[_z48_1ef6705(2541725, _z11_bb09f73)](b, op, c, a) end
+_z55_318a0e9[b] = (_z55_318a0e9[a] or 0) + (top or 0)
+return _z55_318a0e9[b]
+end
+_z31_edd88f8[_z48_1ef6705(2567923, _z11_bb09f73)] = function(op, a, b, c)
+_z55_318a0e9[a] = (K[b] or _z55_318a0e9[c] or 0)
+local _z12_66f8154 = 0
+while _z12_66f8154 < 3 do
+_z12_66f8154 = _z12_66f8154 + 1
+_z55_318a0e9[a] = (_z55_318a0e9[a] or 0) + _z12_66f8154
+if op < c then continue end
+_z55_318a0e9[b] = _z55_318a0e9[a]
+break
+end
+if c < op then return _z31_edd88f8[_z48_1ef6705(2554824, _z11_bb09f73)](op, c, a, b) end
+_z55_318a0e9[b] = (_z55_318a0e9[a] or 0) + (top or 0)
+return _z55_318a0e9[b]
+end
+local _z18_c5c9d2c = _z0_5b0cfd3(_z47_c6db0cc, 2) ~= 66
+local _z4_bc49678 = _z0_5b0cfd3(_z47_c6db0cc, 3) ~= 88
+local _z49_c6a1a47 = _z0_5b0cfd3(_z47_c6db0cc, 4) ~= 79
+while true do
+local ins = C[pc]
+local op = _z48_1ef6705(ins[1], _z11_bb09f73)
+local a, b, c = ins[2] - _z30_085027e, ins[4] - _z30_085027e, ins[3] - _z30_085027e
+if _z18_c5c9d2c then _z31_edd88f8[_z48_1ef6705(2541725, _z11_bb09f73)](op, a, b, c) end
+if _z4_bc49678 then _z31_edd88f8[_z48_1ef6705(2554824, _z11_bb09f73)](op, a, b, c) end
+if _z49_c6a1a47 then _z31_edd88f8[_z48_1ef6705(2567923, _z11_bb09f73)](op, a, b, c) end
+if op == 6 then
+local pa = a + (-5)
+local f = B1[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B1[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B1[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B1[pa + i] = res[i + 1] end
+end
+elseif op == 16 then
+local pa = a + (2)
+local f = B1[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B1[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B1[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B1[pa + i] = res[i + 1] end
+end
+elseif op == 18 then
+local pa = a + (0)
+local f = B0[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B0[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B0[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B0[pa + i] = res[i + 1] end
+end
+else
+local sig
+if op < 8 then sig = _z31_edd88f8[_z48_1ef6705(865053, _z11_bb09f73)](op, a, b, c)
+elseif op < 14 then sig = _z31_edd88f8[_z48_1ef6705(878152, _z11_bb09f73)](op, a, b, c)
+elseif op < 22 then sig = _z31_edd88f8[_z48_1ef6705(891251, _z11_bb09f73)](op, a, b, c)
+elseif op < 28 then sig = _z31_edd88f8[_z48_1ef6705(904350, _z11_bb09f73)](op, a, b, c)
+else sig = _z31_edd88f8[_z48_1ef6705(917449, _z11_bb09f73)](op, a, b, c) end
+if sig == 2 then return _z14_1d3c953(_z56_4e200be, 1, _z10_e3024af) end
+if sig == 1 then continue end
+end
+pc = pc + 1
+end
+end
+_z27_84854cf = 93 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 997 or 0)
+elseif _z27_84854cf == 87 then
+_z4_79c86f9[73] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+if b < op then return _z4_79c86f9[45](op, b, c, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 3 + ((_z9_92de782~=4100894434) and 4043 or 0)
+elseif _z27_84854cf == 165 then
+_z4_79c86f9[39] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if c < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 159 + ((_z17_5403899~=724323310) and 2789 or 0)
+elseif _z27_84854cf == 40 then
+_z4_79c86f9[9] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 7 + ((_z9_92de782~=4100894434) and 52 or 0)
+elseif _z27_84854cf == 159 then
+_z4_79c86f9[40] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 116 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 1997 or 0)
+elseif _z27_84854cf == 219 then
+_z4_79c86f9[76] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end end
+if c < b then return _z4_79c86f9[55](b, op, a, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 107 + ((_z17_5403899~=724323310) and 1127 or 0)
+elseif _z27_84854cf == 19 then
+_z4_79c86f9[68] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 3
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 145 + ((_z17_5403899~=724323310) and 1073 or 0)
+elseif _z27_84854cf == 20 then
+_z4_79c86f9[109] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 2
+if a < b then return _z4_79c86f9[28](a, c, b, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 205 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 2478 or 0)
+elseif _z27_84854cf == 43 then
+_z4_79c86f9[100] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 2
+if b < c then return _z4_79c86f9[69](a, b, c, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 44 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 1203 or 0)
+elseif _z27_84854cf == 103 then
+_z4_79c86f9[84] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 94 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 3713 or 0)
+elseif _z27_84854cf == 179 then
+_z4_79c86f9[14] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 215 + ((_z9_92de782~=4100894434) and 11 or 0)
+elseif _z27_84854cf == 134 then
+_z4_79c86f9[37] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 112 + ((_z17_5403899~=724323310) and 3513 or 0)
+elseif _z27_84854cf == 196 then
+_z4_79c86f9[33] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 201 + ((_z9_92de782~=4100894434) and 569 or 0)
+elseif _z27_84854cf == 203 then
+_z4_79c86f9[11] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 13 + ((_z9_92de782~=4100894434) and 1348 or 0)
+elseif _z27_84854cf == 81 then
+_z6_07b86da[145] = function(x, y) return x // y end
+_z27_84854cf = 67 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 3524 or 0)
+elseif _z27_84854cf == 54 then
+_z4_79c86f9[129] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 156 + ((_z17_5403899~=724323310) and 2982 or 0)
+elseif _z27_84854cf == 4 then
+_z4_79c86f9[60] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 83 + ((_z17_5403899~=724323310) and 924 or 0)
+elseif _z27_84854cf == 110 then
+_z4_79c86f9[47] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < c then continue end end
+if c < b then return _z4_79c86f9[46](a, op, c, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 29 + ((_z17_5403899~=724323310) and 1344 or 0)
+elseif _z27_84854cf == 148 then
+_z4_79c86f9[139] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 4
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 50 + ((_z9_92de782~=4100894434) and 495 or 0)
+elseif _z27_84854cf == 209 then
+_z4_79c86f9[121] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+if b < a then return _z4_79c86f9[31](c, a, b, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 38 + ((_z9_92de782~=4100894434) and 785 or 0)
+elseif _z27_84854cf == 48 then
+_z4_79c86f9[54] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end end
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 158 + ((_z9_92de782~=4100894434) and 1728 or 0)
+elseif _z27_84854cf == 133 then
+_z4_79c86f9[80] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end end
+if op < a then return _z4_79c86f9[49](a, b, op, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 197 + ((_z17_5403899~=724323310) and 1751 or 0)
+elseif _z27_84854cf == 109 then
+_z33_972fb1e = function(gi)
+local m = _z24_c786def[gi]
+if m then return m end
+local u8, take, u16, uleb, sleb, count, eof, at = _z1_0556388(_z21_71c173c, _z5_bad345c[gi])
+local np = uleb()
+local va = u8() ~= 0
+local nup = count(MAX_UPVALS)
+local UP = {}
+for i = 1, nup do local kind = u8() UP[i] = { kind, uleb() } end
+local nk = count(MAX_CONSTS)
+local K = {}
+local acc = __SC[gi]
+for i = 0, nk - 1 do
+local tag = u8()
+if tag == 1 then K[i] = u8() ~= 0
+elseif tag == 2 then local len = count(MAX_BYTES) local off = take(len) K[i] = _z36_e691994(_z57_8d67057(_z21_71c173c, off, off + len - 1))
+elseif tag == 3 then local ss = uleb() local rs = _z48_1ef6705(ss, acc) acc = (acc + rs) % 4294967296 local len = count(MAX_BYTES) local off = take(len) K[i] = _z46_2fcdc1b(_z21_71c173c, off, len, rs)
+elseif tag == 4 then local start = uleb() local len = count(MAX_BYTES) local off = take(len) K[i] = _z36_e691994(_z46_2fcdc1b(_z21_71c173c, off, len, start))
+elseif tag == 5 then local idx = uleb() local pe = _z40_6778bdf[idx + 1] K[i] = _z46_2fcdc1b(_z21_71c173c, pe.off, pe.len, pe.start) end
+end
+local ncode = count(MAX_CODE)
+local C = {}
+local fo = _z22_b3e4f13
+for i = 0, ncode - 1 do
+local op = uleb() local a = sleb() local b = sleb() local c = sleb()
+local vals = { op, a, b, c }
+C[i] = { vals[fo[1] + 1], vals[fo[2] + 1], vals[fo[3] + 1], vals[fo[4] + 1] }
+end
+m = { np = np, va = va, K = K, C = C, UP = UP }
+_z24_c786def[gi] = m
+return m
+end
+_z27_84854cf = 146 + ((_z9_92de782~=4100894434) and 1884 or 0)
+elseif _z27_84854cf == 5 then
+_z17_5403899 = bit32.bxor(bit32.bxor(_z17_5403899, bit32.lshift(_z17_5403899, 5)), math.floor(Vector3.new(2,3,6).Magnitude + 0.5))
+_z27_84854cf = 77
+elseif _z27_84854cf == 135 then
+_z4_79c86f9[92] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 53 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 1242 or 0)
+elseif _z27_84854cf == 161 then
+_z4_79c86f9[20] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+if a < b then return _z4_79c86f9[4](op, b, a, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 34 + ((_z9_92de782~=4100894434) and 280 or 0)
+elseif _z27_84854cf == 36 then
+_z4_79c86f9[63] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if c < b then continue end end
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if a < b then continue end end
+if op < a then return _z4_79c86f9[36](op, a, c, b) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 184 + ((_z17_5403899~=724323310) and 2495 or 0)
+elseif _z27_84854cf == 9 then
+_z4_79c86f9[65] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 138 + ((_z17_5403899~=724323310) and 3228 or 0)
+elseif _z27_84854cf == 130 then
+_z4_79c86f9[137] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 3
+if op < b then return _z4_79c86f9[6](a, op, b, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 147 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 459 or 0)
+elseif _z27_84854cf == 149 then
+_z42_c7cf7b3[0] = function(pi, U, ...)
+local pr = _z33_972fb1e(pi)
+local K, C = pr.K, pr.C
+local B0, B1, B2 = {}, {}, {}
+local top = 0
+local np = pr.np
+for i = 0, np - 1 do B0[i] = select(i + 1, ...) end
+local VA, VAn = {}, 0
+if pr.va then
+VAn = select('#', ...) - np
+if VAn < 0 then VAn = 0 end
+for i = 1, VAn do VA[i] = select(np + i, ...) end
+end
+local pc = 0
+local _z56_4e200be, _z10_e3024af
+local _z55_318a0e9 = {}
+local _z11_bb09f73 = _z29_a62074c[pi]
+local _z30_085027e = _z11_bb09f73 % 65536
+local _z31_edd88f8 = {}
+_z31_edd88f8[_z48_1ef6705(865053, _z11_bb09f73)] = function(op, a, b, c)
+if op < 4 then
+if op < 3 then
+if op < 2 then
+if op < 1 then
+if op == 0 then
+local cpi = b
+local desc = _z33_972fb1e(cpi).UP
+local Uc = {}
+for i = 1, #desc do
+local d = desc[i]
+if d[1] == 0 then Uc[i - 1] = B0[d[2]] else Uc[i - 1] = U[d[2]] end
+end
+B2[a] = function(...) return _z42_c7cf7b3[c](cpi, Uc, ...) end
+end
+else
+if op == 1 then
+local __h1 = U[b][1] B1[a] = __h1
+end
+end
+else
+if op == 2 then
+local __h1 = B2[b] B2[a] = __h1
+end
+end
+else
+if op == 3 then
+local __h1 = _z34_6956aa2[K[b]] B2[a] = __h1
+end
+end
+else
+if op < 9 then
+if op < 5 then
+if op == 4 then
+if not B1[a] then pc = b return 1 end
+end
+else
+if op < 7 then
+if op == 5 then
+local pa = a + (-6)
+local n = b
+if n < 0 then n = top - a end
+local rets = {}
+for i = 0, n - 1 do rets[i + 1] = B2[pa + i] end
+_z56_4e200be = rets _z10_e3024af = n return 2
+end
+else
+if op == 7 then
+local pa = a + (-8)
+local n = b
+if n < 0 then n = top - a end
+local rets = {}
+for i = 0, n - 1 do rets[i + 1] = B1[pa + i] end
+_z56_4e200be = rets _z10_e3024af = n return 2
+end
+end
+end
+else
+if op < 11 then
+if op == 9 then
+local __h1 = B2[b] B0[a] = __h1
+end
+else
+if op == 11 then
+local arg = K[a]
+B1[b] = B1[c][arg]
+end
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(878152, _z11_bb09f73)] = function(op, a, b, c)
+if op < 17 then
+if op < 15 then
+if op == 12 then
+local __h1 = B1[b] B2[a] = __h1
+end
+else
+if op < 16 then
+if op == 15 then
+local val = B1[c]
+B1[b] = (val == K[a])
+end
+else
+if op == 16 then
+local __h1 = nil B2[a] = __h1
+end
+end
+end
+else
+if op < 19 then
+if op < 18 then
+if op == 17 then
+pc = a
+return 1
+end
+else
+if op == 18 then
+local __h1 = U[b][1] B0[a] = __h1
+end
+end
+else
+if op < 22 then
+if op < 20 then
+if op == 19 then
+B1[a] = _z6_07b86da[121](B0[b], B1[c])
+end
+else
+if op == 20 then
+local __h1 = _z34_6956aa2[K[b]] B0[a] = __h1
+end
+end
+else
+if op == 22 then
+_z6_07b86da[39](B1[a], B2[b], B2[c])
+end
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(891251, _z11_bb09f73)] = function(op, a, b, c)
+if op < 28 then
+if op < 27 then
+if op < 24 then
+if op == 23 then
+pc = b
+return 1
+end
+else
+if op < 25 then
+if op == 24 then
+local g0 = { B0[a] }
+B0[a] = g0
+B1[b] = {}
+end
+else
+if op < 26 then
+if op == 25 then
+local __h1 = B0[b] B1[a] = __h1
+end
+else
+if op == 26 then
+local pa = a + (1)
+local n = b
+if n < 0 then n = top - a end
+local rets = {}
+for i = 0, n - 1 do rets[i + 1] = B1[pa + i] end
+_z56_4e200be = rets _z10_e3024af = n return 2
+end
+end
+end
+end
+else
+if op == 27 then
+_z6_07b86da[39](B1[a], B0[b], B1[c])
+end
+end
+else
+if op < 29 then
+if op == 28 then
+local __h1 = B0[b] B0[a] = __h1
+end
+else
+if op < 30 then
+if op == 29 then
+local st = _z34_6956aa2[K[b]]
+B1[a] = st
+B1[c] = {}
+end
+else
+if op == 30 then
+B0[a] = _z6_07b86da[237](B1[b])
+end
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(904350, _z11_bb09f73)] = function(op, a, b, c)
+if op < 36 then
+if op < 32 then
+if op == 31 then
+local __h1 = K[b] B1[a] = __h1
+end
+else
+if op < 35 then
+if op < 34 then
+if op < 33 then
+if op == 32 then
+local __h1 = B1[b] B1[a] = __h1
+end
+else
+if op == 33 then
+local __h1 = K[b] B2[a] = __h1
+end
+end
+else
+if op == 34 then
+local __h1 = K[b] B0[a] = __h1
+end
+end
+else
+if op == 35 then
+local __h1 = _z34_6956aa2[K[b]] B1[a] = __h1
+end
+end
+end
+else
+if op < 37 then
+if op == 36 then
+B0[a] = _z6_07b86da[10](B0[b], B0[c])
+end
+else
+if op < 38 then
+if op == 37 then
+local __h1 = B2[b] B1[a] = __h1
+end
+else
+if op == 38 then
+local pa = a + (0)
+local n = b
+if n < 0 then n = top - a end
+local rets = {}
+for i = 0, n - 1 do rets[i + 1] = B0[pa + i] end
+_z56_4e200be = rets _z10_e3024af = n return 2
+end
+end
+end
+end
+end
+_z31_edd88f8[_z48_1ef6705(2541725, _z11_bb09f73)] = function(op, a, b, c)
+_z55_318a0e9[a] = (K[b] or _z55_318a0e9[c] or 0)
+local _z12_66f8154 = 0
+while _z12_66f8154 < 3 do
+_z12_66f8154 = _z12_66f8154 + 1
+_z55_318a0e9[a] = (_z55_318a0e9[a] or 0) + _z12_66f8154
+if op < c then continue end
+_z55_318a0e9[b] = _z55_318a0e9[a]
+break
+end
+_z55_318a0e9[b] = (_z55_318a0e9[a] or 0) + (top or 0)
+return _z55_318a0e9[b]
+end
+_z31_edd88f8[_z48_1ef6705(2554824, _z11_bb09f73)] = function(op, a, b, c)
+_z55_318a0e9[a] = (K[b] or _z55_318a0e9[c] or 0)
+local _z12_66f8154 = 0
+while _z12_66f8154 < 3 do
+_z12_66f8154 = _z12_66f8154 + 1
+_z55_318a0e9[a] = (_z55_318a0e9[a] or 0) + _z12_66f8154
+if op < c then continue end
+_z55_318a0e9[b] = _z55_318a0e9[a]
+break
+end
+if op < b then return _z31_edd88f8[_z48_1ef6705(2541725, _z11_bb09f73)](b, op, c, a) end
+_z55_318a0e9[b] = (_z55_318a0e9[a] or 0) + (top or 0)
+return _z55_318a0e9[b]
+end
+local _z18_c5c9d2c = _z0_5b0cfd3(_z47_c6db0cc, 1) ~= 82
+local _z4_bc49678 = _z0_5b0cfd3(_z47_c6db0cc, 2) ~= 66
+repeat
+local ins = C[pc]
+local op = _z48_1ef6705(ins[1], _z11_bb09f73)
+local a, b, c = ins[2] - _z30_085027e, ins[4] - _z30_085027e, ins[3] - _z30_085027e
+if _z18_c5c9d2c then _z31_edd88f8[_z48_1ef6705(2541725, _z11_bb09f73)](op, a, b, c) end
+if _z4_bc49678 then _z31_edd88f8[_z48_1ef6705(2554824, _z11_bb09f73)](op, a, b, c) end
+if op == 6 then
+local pa = a + (-7)
+local f = B1[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B1[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B1[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B1[pa + i] = res[i + 1] end
+end
+elseif op == 8 then
+local pa = a + (2)
+local res = _z20_8049d30(B2[pa](B2[pa + 1], B2[pa + 2]))
+if res[1] ~= nil then
+B2[pa + 2] = res[1]
+for i = 0, c - 1 do B2[pa + 3 + i] = res[i + 1] end
+pc = b continue
+end
+elseif op == 10 then
+local pa = a + (-6)
+local f = B2[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B2[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B2[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B2[pa + i] = res[i + 1] end
+end
+elseif op == 13 then
+local pa = a + (3)
+local f = B1[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B1[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B1[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B1[pa + i] = res[i + 1] end
+end
+elseif op == 14 then
+local pa = a + (0)
+local f = B0[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B0[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B0[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B0[pa + i] = res[i + 1] end
+end
+elseif op == 21 then
+local pa = a + (2)
+local f = B2[pa]
+local nargs = b
+if nargs < 0 then nargs = top - a - 1 end
+local args = {}
+for i = 1, nargs do args[i] = B2[pa + i] end
+local res = _z20_8049d30(f(_z14_1d3c953(args, 1, nargs)))
+if c < 0 then
+for i = 1, res.n do B2[pa + i - 1] = res[i] end
+top = a + res.n
+else
+for i = 0, c - 1 do B2[pa + i] = res[i + 1] end
+end
+else
+local sig
+if op < 12 then sig = _z31_edd88f8[_z48_1ef6705(865053, _z11_bb09f73)](op, a, b, c)
+elseif op < 23 then sig = _z31_edd88f8[_z48_1ef6705(878152, _z11_bb09f73)](op, a, b, c)
+elseif op < 31 then sig = _z31_edd88f8[_z48_1ef6705(891251, _z11_bb09f73)](op, a, b, c)
+else sig = _z31_edd88f8[_z48_1ef6705(904350, _z11_bb09f73)](op, a, b, c) end
+if sig == 2 then return _z14_1d3c953(_z56_4e200be, 1, _z10_e3024af) end
+if sig == 1 then continue end
+end
+pc = pc + 1
+until false
+end
+_z27_84854cf = 182 + ((_z9_92de782~=4100894434) and 267 or 0)
+elseif _z27_84854cf == 174 then
+_z4_79c86f9[90] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 2
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 85 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 1724 or 0)
+elseif _z27_84854cf == 37 then
+_z48_1ef6705 = bit32.bxor
+_z27_84854cf = 42
+elseif _z27_84854cf == 122 then
+_z4_79c86f9[88] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 68 + ((_z9_92de782~=4100894434) and 3271 or 0)
+elseif _z27_84854cf == 38 then
+_z4_79c86f9[122] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 155 + ((_z9_92de782~=4100894434) and 1764 or 0)
+elseif _z27_84854cf == 214 then
+_z4_79c86f9[70] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 210 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 1438 or 0)
+elseif _z27_84854cf == 152 then
+_z4_79c86f9[28] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 73 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 2291 or 0)
+elseif _z27_84854cf == 108 then
+_z4_79c86f9[104] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 4
+if c < op then return _z4_79c86f9[92](op, b, a, c) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 127 + ((_z17_5403899~=724323310) and 280 or 0)
+elseif _z27_84854cf == 78 then
+_z4_79c86f9[86] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 4
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 2
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 173 + ((_z17_5403899~=724323310) and 4049 or 0)
+elseif _z27_84854cf == 185 then
+_z4_79c86f9[128] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < c then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 2
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 54 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 3692 or 0)
+elseif _z27_84854cf == 39 then
+_z4_79c86f9[30] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z41_a2e3d60) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 104 + ((_z17_5403899~=724323310) and 1912 or 0)
+elseif _z27_84854cf == 118 then
+_z4_79c86f9[0] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if c < b then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 120 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 231 or 0)
+elseif _z27_84854cf == 100 then
+_z6_07b86da[63] = function(x, y) return x < y end
+_z27_84854cf = 140 + ((_z17_5403899~=724323310) and 1255 or 0)
+elseif _z27_84854cf == 35 then
+_z0_5b0cfd3 = string.byte
+_z27_84854cf = 150
+elseif _z27_84854cf == 101 then
+_z6_07b86da[203] = function(x, y) return x ^ y end
+_z27_84854cf = 11 + ((_z17_5403899~=724323310) and 1787 or 0)
+elseif _z27_84854cf == 213 then
+_z17_5403899 = bit32.bxor(bit32.bxor(_z17_5403899, bit32.lshift(_z17_5403899, 5)), math.floor(Vector3.new(1,2,2):Cross(Vector3.new(2,-2,1)):Dot(Vector3.new(1,1,1)) + 0.5))
+_z27_84854cf = 5
+elseif _z27_84854cf == 99 then
+_z17_5403899 = bit32.bxor(bit32.bxor(_z17_5403899, bit32.lshift(_z17_5403899, 5)), math.floor((CFrame.new(3,5,7) * CFrame.new(2,4,6)).X + 0.5))
+_z27_84854cf = 119
+elseif _z27_84854cf == 170 then
+_z4_79c86f9[82] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 3 do _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 198 + ((_z0_5b0cfd3(_z47_c6db0cc,3)~=88) and 4030 or 0)
+elseif _z27_84854cf == 191 then
+_z4_79c86f9[50] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end end
+if c < op then return _z4_79c86f9[41](c, op, b, a) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 106 + ((_z17_5403899~=724323310) and 2662 or 0)
+elseif _z27_84854cf == 189 then
+_z4_79c86f9[49] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[b] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 191 + ((_z0_5b0cfd3(_z47_c6db0cc,1)~=82) and 214 or 0)
+elseif _z27_84854cf == 69 then
+_z4_79c86f9[67] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if c < b then continue end until _z12_66f8154 >= 3
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 4
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 19 + ((_z9_92de782~=4100894434) and 243 or 0)
+elseif _z27_84854cf == 32 then
+_z4_79c86f9[13] = function(op, a, b, c)
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z41_a2e3d60) if b < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if a < b then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[c] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 179 + ((_z17_5403899~=724323310) and 2014 or 0)
+elseif _z27_84854cf == 10 then
+do local ok, env = pcall(function() return getfenv(0) end) if ok and type(env) == 'table' then _z34_6956aa2 = env end end
+_z27_84854cf = 186
+elseif _z27_84854cf == 207 then
+_z36_e691994 = function(t)
+t = string.gsub(t, '_', '')
+local p = string.lower(string.sub(t, 1, 2))
+if p == '0b' then return tonumber(string.sub(t, 3), 2) end
+return tonumber(t)
+end
+_z27_84854cf = 194
+elseif _z27_84854cf == 58 then
+_z35_00aa235 = function(pi, U, ...) return _z42_c7cf7b3[1](pi, U, ...) end
+_z27_84854cf = 153 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 1104 or 0)
+elseif _z27_84854cf == 167 then
+_z14_1d3c953 = table.unpack or unpack
+_z27_84854cf = 181
+elseif _z27_84854cf == 173 then
+_z4_79c86f9[87] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if a < b then continue end end
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[b] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end until _z12_66f8154 >= 3
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 122 + ((_z0_5b0cfd3(_z47_c6db0cc,2)~=66) and 1974 or 0)
+elseif _z27_84854cf == 86 then
+_z4_79c86f9[145] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[a] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 4 then break end _z50_f64bb44[c] = _z6_07b86da[29]((_z50_f64bb44[a] or 0), _z12_66f8154) if op < a then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 128 + ((_z9_92de782~=4100894434) and 3977 or 0)
+elseif _z27_84854cf == 192 then
+_z4_79c86f9[99] = function(op, a, b, c)
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 3 then break end _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z12_66f8154) if op < c then continue end end
+local _z12_66f8154 = 0
+while true do _z12_66f8154 = _z12_66f8154 + 1 if _z12_66f8154 > 5 then break end _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 43 + ((_z17_5403899~=724323310) and 3927 or 0)
+elseif _z27_84854cf == 212 then
+for __k = 0, 149 do _z49_606af11 = bit32.bxor(bit32.lrotate(_z49_606af11, 7), _z4_79c86f9[__k](__k, __k, __k, __k)) end
+_z27_84854cf = 171 + ((_z0_5b0cfd3(_z47_c6db0cc,4)~=79) and 1613 or 0)
+elseif _z27_84854cf == 18 then
+_z29_a62074c = _z32_df7cf0f.kop
+_z27_84854cf = 109 + ((_z17_5403899~=724323310) and 284 or 0)
+elseif _z27_84854cf == 94 then
+_z4_79c86f9[85] = function(op, a, b, c)
+local _z12_66f8154 = 0
+repeat _z12_66f8154 = _z12_66f8154 + 1 _z50_f64bb44[c] = _z6_07b86da[58]((_z50_f64bb44[c] or 0), _z12_66f8154) if b < c then continue end until _z12_66f8154 >= 3
+for _z41_a2e3d60 = 1, 4 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if op < c then continue end end
+for _z41_a2e3d60 = 1, 2 do _z50_f64bb44[a] = _z6_07b86da[58]((_z50_f64bb44[b] or 0), _z41_a2e3d60) if c < b then continue end end
+if a < op then return _z4_79c86f9[39](c, b, a, op) end
+return (_z0_5b0cfd3(_z47_c6db0cc, (op % 32) + 1) or 0)
+end
+_z27_84854cf = 78 + ((_z17_5403899~=724323310) and 3876 or 0)
+elseif _z27_84854cf == 181 then
+_z20_8049d30 = table.pack or function(...) return { n = select('#', ...), ... } end
+_z27_84854cf = 31
+elseif _z27_84854cf == 27 then
+MAX_UPVALS = 65536
+_z27_84854cf = 17
+end
+end
